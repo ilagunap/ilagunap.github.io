@@ -16,7 +16,7 @@ Phone: +1-925-422-7308, Email: [ilaguna@llnl.gov](mailto:ilaguna@llnl.gov)
 
 ## News
 
-09-18-2018: Our resilience SC'18 paper is highlighted the news at [HPCWire](https://www.hpcwire.com/2018/09/18/whats-new-in-hpc-research-september-part-1/)\\
+09-18-2018: Our resilience SC'18 paper is highlighted in the news at [HPCWire](https://www.hpcwire.com/2018/09/18/whats-new-in-hpc-research-september-part-1/)\\
 08-14-2018: Paper accepted at [SC'18](https://sc18.supercomputing.org/)\\
 09-09-2017: We are named [R&D 100 Award Finalists!](https://www.rd100conference.com/awards/winners-finalists/year/2017/)\\
 06-15-2017: Paper accepted at [SC'17](https://sc17.supercomputing.org/)
