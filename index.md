@@ -37,15 +37,15 @@ Specific research interests:
 ----
 
 ## Select Publications
-- **[SC'18]** Luanzheng Guo, Dong Li, Ignacio Laguna, Martin Schulz. *FlipTracker: Understanding Natural Error Resilience in HPC Applications.* ACM/IEEE Conference for High Performance Computing, Networking, Storage and Analysis (SC), Dallas, TX, 2018.
+- **[SC'18]** Luanzheng Guo, Dong Li, Ignacio Laguna, Martin Schulz. *FlipTracker: Understanding Natural Error Resilience in HPC Applications.* ACM/IEEE Conference for High Performance Computing, Networking, Storage and Analysis (SC), 2018.
 
-- **[SC'17]** Giorgis Georgakoudis, Ignacio Laguna, Dimitrios S. Nikolopoulos, Martin Schulz. *REFINE: Realistic Fault Injection via Compiler-Based Instrumentation for Accuracy, Portability and Speed.* ACM/IEEE Conference for High Performance Computing, Networking, Storage and Analysis (SC), Denver, CO, 2017.
+- **[SC'17]** Giorgis Georgakoudis, Ignacio Laguna, Dimitrios S. Nikolopoulos, Martin Schulz. *REFINE: Realistic Fault Injection via Compiler-Based Instrumentation for Accuracy, Portability and Speed.* ACM/IEEE Conference for High Performance Computing, Networking, Storage and Analysis (SC), 2017.
 
-- **[PLDI'14]** Subrata Mitra, Ignacio Laguna, Dong H. Ahn, Saurabh Bagchi, Martin Schulz, and Todd Gamblin. *Accurate Application Progress Analysis for Large-Scale Parallel Debugging.* In ACM International Symposium on Programming Language Design and Implementation (PLDI), Edinburgh, UK, June 9-11, 2014.
+- **[PLDI'14]** Subrata Mitra, Ignacio Laguna, Dong H. Ahn, Saurabh Bagchi, Martin Schulz, and Todd Gamblin. *Accurate Application Progress Analysis for Large-Scale Parallel Debugging.* ACM International Symposium on Programming Language Design and Implementation (PLDI), 2014.
 
-- **[DSN'12]** Greg Bronevetsky, Ignacio Laguna, Saurabh Bagchi and Bronis R. de Supinski. *Automatic Fault Characterization via Abnormality-Enhanced Classification.* In IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), Boston, Massachusetts, Jun, 2012.
+- **[DSN'12]** Greg Bronevetsky, Ignacio Laguna, Saurabh Bagchi and Bronis R. de Supinski. *Automatic Fault Characterization via Abnormality-Enhanced Classification.* In IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2012.
 
-- **[DSN'10]** Greg Bronevetsky, Ignacio Laguna, Surabh Bagchi, Bronis R. de Supinski, Dong H. Ahn, Martin Schulz. *AutomaDeD: Automata-Based Debugging for Dissimilar Parallel Tasks.* In IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), Chicago Illinois, Jun-Jul, 2010.
+- **[DSN'10]** Greg Bronevetsky, Ignacio Laguna, Surabh Bagchi, Bronis R. de Supinski, Dong H. Ahn, Martin Schulz. *AutomaDeD: Automata-Based Debugging for Dissimilar Parallel Tasks.* IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2010.
 
 
 ([All Publications](/papers/))
@@ -79,6 +79,7 @@ Technical Program Committee: [Scala'17](https://www.csm.ornl.gov/srt/conferences
 Technical Program Committee: [Scala'16](https://www.csm.ornl.gov/srt/conferences/Scala/2016/)
  -->
 
+<!---
 **Conference Program Committees:**
 [IPDPS'19](http://www.ipdps.org/),
 [IPDPS'18](http://www.ipdps.org/ipdps2018/index.html),
@@ -93,8 +94,8 @@ Technical Program Committee: [Scala'16](https://www.csm.ornl.gov/srt/conferences
 [Resilience'17](https://www.csm.ornl.gov/srt/conferences/Resilience/2017/),
 [Resilience'16](https://www.csm.ornl.gov/srt/conferences/Resilience/2016/),
 [Resilience'15](https://www.csm.ornl.gov/srt/conferences/Resilience/2015/),
-[Scala'18](https://www.csm.ornl.gov/srt/conferences/Scala/2017/),
-[Scala'17](https://www.csm.ornl.gov/srt/conferences/Scala/2018/),
+[Scala'18](https://www.csm.ornl.gov/srt/conferences/Scala/2018/),
+[Scala'17](https://www.csm.ornl.gov/srt/conferences/Scala/2017/),
 [Scala'16](https://www.csm.ornl.gov/srt/conferences/Scala/2016/),
 [SELSE'18](https://www.selse.org/),
 [SELSE'17](https://www.selse.org/),
@@ -104,6 +105,31 @@ Technical Program Committee: [Scala'16](https://www.csm.ornl.gov/srt/conferences
 **Workshop Co-Organizer:**
 [Correctness'18](https://correctness-workshop.github.io/2018/),
 [Correctness'17](https://correctness-workshop.github.io/2017/)
+ -->
+
+2019 - Program Committees: [IPDPS'19](http://www.ipdps.org/)\\
+2018 - Program Committees: [IPDPS'18](http://www.ipdps.org/ipdps2018/index.html),
+[Resilience'18](https://www.csm.ornl.gov/srt/conferences/Resilience/2018/),
+[SELSE'18](https://www.selse.org/),
+[Scala'18](https://www.csm.ornl.gov/srt/conferences/Scala/2018/)\\
+2017 - Program Committees: [CCGrid'17](https://www.arcos.inf.uc3m.es/ccgrid2017/),
+[SRDS'17](http://srds2017.comp.polyu.edu.hk/),
+[Resilience'17](https://www.csm.ornl.gov/srt/conferences/Resilience/2017/),
+[Scala'17](https://www.csm.ornl.gov/srt/conferences/Scala/2017/),
+[SELSE'17](https://www.selse.org/)\\
+2016 - Program Committees: [SC'16](http://sc16.supercomputing.org/),
+[SRDS'16](http://srds2016.inf.mit.bme.hu/),
+[CCGrid'16](http://ccgrid2016.uniandes.edu.co/),
+[Resilience'16](https://www.csm.ornl.gov/srt/conferences/Resilience/2016/),
+[Scala'16](https://www.csm.ornl.gov/srt/conferences/Scala/2016/),
+[SELSE'16](https://www.selse.org/)\\
+2015 - Program Committees: [Resilience'15](https://www.csm.ornl.gov/srt/conferences/Resilience/2015/)\\
+2014 - Program Committees: [ISSRE'14](http://2014.issre.net/),
+[PROPER'14](http://www.vi-hps.org/)\\
+2018 - Workshop Co-Organizer: [Correctness'18](https://correctness-workshop.github.io/2018/)\\
+2018 - Workshop Co-Organizer: [Correctness'17](https://correctness-workshop.github.io/2017/)
+
+
 
 
 <!---

@@ -19,3 +19,8 @@ I am a Computer Scientist at the Center for Applied Scientific Computing (CASC) 
 - LLNL Spot Award (for building effective software bug isolation tools)
 - LLNL Outstanding Mentor Award
 - ACM & IEEE George Michael Memorial HPC Fellow
+
+<br />
+<br />
+
+<iframe src="https://player.vimeo.com/video/137135569" width="640" height="360" frameborder="0" allowfullscreen></iframe>
