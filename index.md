@@ -5,12 +5,25 @@
 layout: home
 ---
 
+<table>
+<tr> <td valign="top"> <img src="images/ignacio_profile_4.jpg" alt="Ignacio Laguna" style="width:220px;" /> </td>
+<td width="0%"> </td>
+<td>
+<b>Contact:</b><br />
+Lawrence Livermore National Laboratory, Box 808, L-561<br />
+Livermore, CA 94551-0808<br />
+Phone: +1-925-422-7308, Email: <a href="mailto:ilaguna@llnl.gov">ilaguna@llnl.gov</a>
+</td> </tr>
+</table> 
+
+<!--
 ![Ignacio Laguna](images/ignacio_profile_1.jpeg "Ignacio Laguna")
 
 **Contact:**\\
 Lawrence Livermore National Laboratory, Box 808, L-561 \\
 Livermore, CA 94551-0808 \\
 Phone: +1-925-422-7308, Email: [ilaguna@llnl.gov](mailto:ilaguna@llnl.gov)
+ -->
 
 ----
 
