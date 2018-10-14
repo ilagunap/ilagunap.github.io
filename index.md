@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![alt text](images/linkedin_pic_small.jpg "Ignacio Laguna")
+![Ignacio Laguna](images/ignacio_profile_1.jpeg "Ignacio Laguna")
 
 **Contact:**\\
 Lawrence Livermore National Laboratory, Box 808, L-561 \\
