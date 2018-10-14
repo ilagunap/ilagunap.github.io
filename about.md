@@ -21,6 +21,5 @@ I am a Computer Scientist at the Center for Applied Scientific Computing (CASC) 
 - ACM & IEEE George Michael Memorial HPC Fellow
 
 <br />
-<br />
 
 <iframe src="https://player.vimeo.com/video/137135569" width="640" height="360" frameborder="0" allowfullscreen></iframe>

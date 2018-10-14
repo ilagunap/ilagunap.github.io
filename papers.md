@@ -131,6 +131,10 @@ Accelerating Computational Science and Engineering (CSE), vol. 25, pag. 19, 2014
 
 **Workshop Papers**
 
+- **[ScalA]** Ranvijay Singh, Paul Wood, Ravi Gupta, Saurabh Bagchi, and Ignacio Laguna. [Snowpack: efficient
+parameter choice for GPU kernels via static analysis and statistical prediction.](https://dl.acm.org/citation.cfm?id=3148235) In Proceedings of the 8th
+Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA ’17), @SC17, Denver, CO, 2017.
+
 - **[FTXS]** Ayush Patwari, Ignacio Laguna, Martin Schulz, Saurabh Bagchi. [Understanding the Spatial Characteristics
 of DRAM Errors in HPC Clusters.](https://dl.acm.org/citation.cfm?id=3086164) The 7th Workshop on Fault Tolerance for HPC at eXtreme
 Scale (FTXS) @HPDC, Washington, D.C., USA, Jun, 2017.
@@ -148,7 +152,7 @@ Muller, Ignacio Laguna, Zvonimir Rakamaric, Greg L Lee. [Towards providing low-o
 detection for large OpenMP applications.](https://dl.acm.org/citation.cfm?id=2688369) In Workshop on LLVM Compiler Infrastructure in HPC, held
 in conjunction with SC’14, New Orleans, Louisiana, Nov, 2014.
 
-- **[LLVM-ScalA]** Ignacio Laguna, Edgar A Leon, Martin Schulz, Mark Stephenson. [A study of application-level recovery
+- **[ScalA]** Ignacio Laguna, Edgar A Leon, Martin Schulz, Mark Stephenson. [A study of application-level recovery
 methods for transient network faults.](https://dl.acm.org/citation.cfm?id=2530271) In Workshop on Latest Advances in Scalable Algorithms for
 Large-Scale Systems (ScalA’13), held in conjunction with SC’13, Denver, Colorado, Nov, 2013.
 
