@@ -6,164 +6,43 @@ permalink: /papers/
 
 **Conference Papers**
 
-- **[SC'18]** Luanzheng Guo, Dong Li, Ignacio Laguna, Martin Schulz. FlipTracker: Understanding Natural Error Resilience in HPC Applications. ACM/IEEE Conference for High Performance Computing, Networking,
-Storage and Analysis (SC), Dallas, TX, 2018.
+{% assign len = 0 %}
 
-- **[EuroMPI'18]** Nawrin Sultana, Anthony Skjellum, Ignacio Laguna, Matthew Shane Farmer, Kathryn Mohror and
-Murali Emani. [MPI Stages: Checkpointing MPI State for Bulk Synchronous Applications](https://dl.acm.org/citation.cfm?id=3236385). In Proceedings
-of the 25th European MPI Users’ Group Meeting (EuroMPI), Barcelona, Spain, Sep. 23-26, 2018.
+<ol>
+{% for p in site.data.papers %}
+{% if p.type == "conf" %}
+    {% assign len = len | plus: 1 %}
+    <li>
+        <b>[{{p.pub}}]</b> {{p.authors}}. <a href="{{p.url}}"> {{p.title}} </a>. {{p.venue}}.
+    </li> <br />
+{% endif %}
+{% endfor %}
+</ol>
 
-- **[IPDPS'18]** Simone Atzeni, Ganesh Gopalakrishnan, Zvonimir Rakamaric, Ignacio Laguna, Gregory L Lee, Dong H
-Ahn. [SWORD: A Bounded Memory-Overhead Detector of OpenMP Data Races in Production Runs](https://ieeexplore.ieee.org/abstract/document/8425238). The
-The 32nd IEEE International Parallel and Distributed Processing Symposium (IPDPS), May, Vancouver,
-Canada, 2018.
-
-- **[SC'17]** Giorgis Georgakoudis, Ignacio Laguna, Dimitrios S. Nikolopoulos, Martin Schulz. [REFINE: Realistic Fault Injection via Compiler-Based Instrumentation for Accuracy, Portability and Speed.](https://dl.acm.org/citation.cfm?id=3126972) ACM/IEEE Conference for High Performance Computing, Networking, Storage and Analysis (SC), Denver, CO, 2017.
-
-- **[PPoPP'17]** Sato, Kento, Dong H. Ahn, Ignacio Laguna, Gregory L. Lee, Martin Schulz, and Christopher M.
-Chambreau. [Noise Injection Techniques to Expose Subtle and Unintended Message Races.](https://dl.acm.org/citation.cfm?id=3018767) In Proceedings
-of the 22nd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP),
-Austin, Texas, USA, Feb, 2017.
-
-- **[IPDPS'17]** David Beckingsale, Olga Pearce, Ignacio Laguna, and Todd Gamblin. [Apollo: Reusable Models for Fast,
-Dynamic Tuning of Input-Dependent Code.](https://ieeexplore.ieee.org/abstract/document/7967120) In The 31th IEEE International Parallel and Distributed
-Processing Symposium (IPDPS), May, Orlando, Florida, USA, 2017.
-
-- **[SC'16]** Ignacio Laguna, Martin Schulz. [Pinpointing Scale-Dependent Integer Overflow Bugs in Large-Scale
-Parallel Applications.](https://dl.acm.org/citation.cfm?id=3014930) ACM/IEEE Conference for High Performance Computing, Networking, Storage
-and Analysis (SC), Salt Lake City, 2016.
-
-- **[IPDPS'16]** Simone Atzeni, Ganesh Gopalakrishnan, Zvonimir Rakamaric, Dong H. Ahn, Ignacio Laguna, Martin
-Schulz, Gregory L. Lee, Joachim Protze, Matthias S. Muller. [ARCHER: Effectively Spotting Data
-Races in Large OpenMP Applications.](https://www.computer.org/csdl/proceedings/ipdps/2016/2140/00/2140a053-abs.html) In 2016 IEEE International Parallel and Distributed Processing
-Symposium (IPDPS), Chicago, May 23-27, 2016.
-
-- **[CGO'16]** Ignacio Laguna, Martin Schulz, David F. Richards, Jon Calhoun, Luke Olson. [IPAS: Intelligent Protection
-Against Silent Output Corruption in Scientific Applications.](https://ieeexplore.ieee.org/abstract/document/7559547/) In the 14th IEEE/ACM International
-Symposium on Code Generation and Optimization (CGO), Barcelona, March 12-18, 2016.
-
-- **[SC'15]** Kento Sato, Dong H. Ahn, Ignacio Laguna, Gregory L. Lee, Martin Schulz. [Clock Delta Compression
-for Scalable Order-Replay of Non-Deterministic Parallel Applications.](https://dl.acm.org/citation.cfm?id=2807642) In the ACM/IEEE Conference for
-High Performance Computing, Networking, Storage and Analysis (SC), Austin, Texas, Nov, 2015.
-
-- **[ICCS'15]** A. Chien, P. Balaji, P. Beckman, N. Dun, A. Fang, H. Fujita, K. Iskra, Z. Rubenstein, Z. Zheng, R.
-Schreiber, J. Hammond, J. Dinan, I. Laguna, D. Richards, A. Dubey, B. van Straalen, M. Hoemmen,
-M. Heroux, K. Teranishi, A. Siegel. [Versioned Distributed Arrays for Resilience in Scientific Applications:
-Global View Resilience.](https://www.sciencedirect.com/science/article/pii/S1877050915009953) In the International Conference On Computational Science (ICCS), Reykjavik,
-Iceland, June 1-3, 2015.
-
-- **[EuroMPI'14]** Ignacio Laguna, David F. Richards, Todd Gamblin, Martin Schulz, Bronis R. de Supinski. [Evaluating
-User-Level Fault Tolerance for MPI Applications.](https://dl.acm.org/citation.cfm?id=2642775) In EuroMPI/ASIA, Kyoto, Japan, Sep 9-12, 2014.
-
-- **[PLDI'14]** Subrata Mitra, Ignacio Laguna, Dong H. Ahn, Saurabh Bagchi, Martin Schulz, and Todd Gamblin.
-[Accurate Application Progress Analysis for Large-Scale Parallel Debugging.](https://dl.acm.org/citation.cfm?id=2594336) In ACM International
-Symposium on Programming Language Design and Implementation (PLDI), Edinburgh, UK, June 9-11,
-2014.
-
-- **[SRDS'13]** Ignacio Laguna, Subrata Mitra, Fahad A Arshad, Nawanol Theera-Ampornpunt, Zongyang Zhu, Saurabh
-Bagchi, Samuel P Midkiff, Mike Kistler, Ahmed Gheith. [Automatic Problem Localization via Multidimensional
-Metric Profiling.](https://ieeexplore.ieee.org/abstract/document/6656268) In IEEE 32nd International Symposium on Reliable Distributed Systems
-(SRDS), Braga, Portugal, Sep-Oct, 2013.
-
-- **[PACT'12]** Ignacio Laguna, Dong H. Ahn, Bronis R. de Supinski, Saurabh Bagchi, Todd Gamblin. [Probabilistic
-Diagnosis of Performance Faults in Large-Scale Parallel Applications.](https://dl.acm.org/citation.cfm?id=2370848) In International Conference on
-Parallel Architectures and Compilation Techniques (PACT), Minneapolis, MN, Sep, 2012.
-
-- **[DSN'12]** Greg Bronevetsky, Ignacio Laguna, Saurabh Bagchi and Bronis R. de Supinski. [Automatic Fault
-Characterization via Abnormality-Enhanced Classification.](https://www.computer.org/csdl/proceedings/dsn/2012/1624/00/014-abs.html) In IEEE/IFIP International Conference on
-Dependable Systems and Networks (DSN), Boston, Massachusetts, Jun, 2012.
-
-- **[SC'11]** Ignacio Laguna, Todd Gamblin, Bronis R. de Supinski, Saurabh Bagchi, Greg Bronevetsky, Dong H.
-Ahn, Martin Schulz, Barry Rountree. [Large Scale Debugging of Parallel Tasks with AutomaDeD.](https://dl.acm.org/citation.cfm?id=2063451) In
-ACM/IEEE Supercomputing (SC), Seattle, WA, Nov 2011.
-
-- **[DSN'10]** Greg Bronevetsky, Ignacio Laguna, Surabh Bagchi, Bronis R. de Supinski, Dong H. Ahn, Martin Schulz.
-[AutomaDeD: Automata-Based Debugging for Dissimilar Parallel Tasks.](https://ieeexplore.ieee.org/abstract/document/5544927) In IEEE/IFIP International
-Conference on Dependable Systems and Networks (DSN), Chicago Illinois, Jun-Jul, 2010.
-
-- **[Middleware'09]** Ignacio Laguna, Fahad A. Arshad, David M. Grothe, Saurabh Bagchi. [How To Keep Your Head
-Above Water While Detecting Errors.](https://link.springer.com/chapter/10.1007/978-3-642-10445-9_11) In ACM/IFIP/USENIX 10th International Middleware Conference
-(Middleware), UIUC Illinois, Nov-Dec 2009.
-
-- **[SC'09]** Dong H. Ahn, Bronis R. de Supinski, Ignacio. Laguna, Greg L. Lee, Ben Liblit, Barton P. Miller,
-and Martin Schulz. [Scalable Temporal Order Analysis for Large Scale Debugging.](https://dl.acm.org/citation.cfm?id=1654104) In ACM/IEEE
-Supercomputing (SC), Portland, OR, Nov 2009.
-
-- **[SRDS'07]** Gunjan Khanna, Ignacio Laguna, Fahad A. Arshad and Saurabh Bagchi. [Distributed Diagnosis of
-Failures in a Three Tier E-Commerce System.](https://ieeexplore.ieee.org/abstract/document/4365695) In IEEE Symposium on Reliable Distributed Systems
-(SRDS), Beijing, China, Oct 2007.
-
-- **[SRDS'07]** Gunjan Khanna, Ignacio Laguna, Fahad A. Arshad and Saurabh Bagchi. [Stateful Detection in High
-Throughput Distributed Systems.](https://ieeexplore.ieee.org/abstract/document/4365703) In IEEE Symposium on Reliable Distributed Systems (SRDS), Beijing,
-China, Oct 2007.
+{% assign len = len | plus: 1 %}
 
 **Journal Papers**
 
-
-- **[CCPE]** Sourav Chakraborty, Ignacio Laguna, Murali Emani, Kathryn Mohror, Dhabaleswar K. Panda, Martin
-Schulz, Hari Subramoni. [EReinit: Scalable and Efficient Fault Tolerance for Bulk-Synchronous MPI
-applications.](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.4863) Concurrency and Computation: Practice and Experience, Wiley.
-
-- **[IJHPCA]**  A. Chien, P. Balaji, N. Dun, A. Fang, H. Fujita, K. Iskra, Z. Rubenstein, Z. Zheng, J. Hammond, I.
-Laguna, D. Richards, A. Dubey, B. van Straalen, M. Hoemmen, M. Heroux, K. Teranishi, A. Siegel.
-[Exploring versioned distributed arrays for resilience in scientific applications: global view resilience.](https://doi.org/10.1177/1094342016664796)
-The International Journal of High Performance Computing Applications (IJHPCA), 31, no. 6 (2017):
-564-590.
-
-- **[IJHPCA]** Ignacio Laguna, David F. Richards, Todd Gamblin, Martin Schulz, Bronis R. de Supinski, Kathryn
-Mohror, and Howard Pritchard. [Evaluating and Extending User-Level Fault Tolerance in MPI.](https://doi.org/10.1177/1094342015623623) The
-International Journal of High Performance Computing Applications (IJHPCA), vol. 30, num. 3, pp.
-305-319, Sep, 2016.
-
-- **[CACM]** Ignacio Laguna, Dong H. Ahn, Bronis R. de Supinski, Todd Gamblin, Gregory L. Lee, Martin Schulz,
-Saurabh Bagchi, Milind Kulkarni, Bowen Zhou, Zhezhe Chen, and Feng Qin. [Debugging high-performance
-computing applications at massive scales.](https://dl.acm.org/citation.cfm?id=2667219) In Communications of the ACM, September, 2015.
-
-- **[TPDS]** Ignacio Laguna, Dong Ahn, Bronis de Supinski, Saurabh Bagchi, and Todd Gamblin. [Diagnosis of
-Performance Faults in Large Scale MPI Applications via Probabilistic Progress-Dependence Inference.](https://ieeexplore.ieee.org/abstract/document/6803050)
-IEEE Transactions on Parallel and Distributed Systems (TPDS), vol. 26, no. 5, pp. 1280-1289, May
-2015.
-
-- **[CSE]** Martin Schulz, Jim Belak, Abhinav Bhatele, Peer-Timo Bremer, Greg Bronevetsky, Marc Casas, Todd
-Gamblin, Katherine E. Isaacs, Ignacio Laguna, Joshua Levine, Valerio Pascucci, David Richards, Barry
-Rountree. Performance analysis techniques for the exascale co-design process. Parallel Computing:
-Accelerating Computational Science and Engineering (CSE), vol. 25, pag. 19, 2014, IOS Press.
+<ol start="{{len}}">
+{% for p in site.data.papers %}
+{% if p.type == "journal" %}
+    {% assign len = len | plus: 1 %}
+    <li>
+        <b>[{{p.pub}}]</b> {{p.authors}}. <a href="{{p.url}}"> {{p.title}} </a>. {{p.venue}}.
+    </li> <br />
+{% endif %}
+{% endfor %}
+</ol>
 
 **Workshop Papers**
 
-- **[ScalA]** Ranvijay Singh, Paul Wood, Ravi Gupta, Saurabh Bagchi, and Ignacio Laguna. [Snowpack: efficient
-parameter choice for GPU kernels via static analysis and statistical prediction.](https://dl.acm.org/citation.cfm?id=3148235) In Proceedings of the 8th
-Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA ’17), @SC17, Denver, CO, 2017.
-
-- **[FTXS]** Ayush Patwari, Ignacio Laguna, Martin Schulz, Saurabh Bagchi. [Understanding the Spatial Characteristics
-of DRAM Errors in HPC Clusters.](https://dl.acm.org/citation.cfm?id=3086164) The 7th Workshop on Fault Tolerance for HPC at eXtreme
-Scale (FTXS) @HPDC, Washington, D.C., USA, Jun, 2017.
-
-- **[IWOMP]** Joachim Protze, Dong H. Ahn, Ignacio Laguna, Martin Schulz, and Matthias S. Muller. [Testing
-Infrastructure for OpenMP Debugging Interface Implementations.](https://link.springer.com/chapter/10.1007/978-3-319-45550-1_15) In the International Workshop on
-OpenMP (IWOMP), Oct 5, 2016.
-
-- **[IWOMP]** Joachim Protze, Ignacio Laguna, Dong H. Ahn, John DelSignore, Ariel Burton, Martin Schulz, and
-Matthias S. Muller. [Lessons Learned from Implementing OMPD: a Debugging Interface for OpenMP.](https://link.springer.com/chapter/10.1007/978-3-319-24595-9_7) In
-the 11th International Workshop on OpenMP (IWOMP), Aachen, Germany, October 1-2, 2015.
-
-- **[LLVM-HPC]** Joachim Protze, Simone Atzeni, Dong H Ahn, Martin Schulz, Ganesh Gopalakrishnan, Matthias S
-Muller, Ignacio Laguna, Zvonimir Rakamaric, Greg L Lee. [Towards providing low-overhead data race
-detection for large OpenMP applications.](https://dl.acm.org/citation.cfm?id=2688369) In Workshop on LLVM Compiler Infrastructure in HPC, held
-in conjunction with SC’14, New Orleans, Louisiana, Nov, 2014.
-
-- **[ScalA]** Ignacio Laguna, Edgar A Leon, Martin Schulz, Mark Stephenson. [A study of application-level recovery
-methods for transient network faults.](https://dl.acm.org/citation.cfm?id=2530271) In Workshop on Latest Advances in Scalable Algorithms for
-Large-Scale Systems (ScalA’13), held in conjunction with SC’13, Denver, Colorado, Nov, 2013.
-
-- **[SEHPCCSE]** Dong H Ahn, Gregory L Lee, Ganesh Gopalakrishnan, Zvonimir Rakamaric, Martin Schulz, Ignacio
-Laguna. [Overcoming extreme-scale reproducibility challenges through a unified, targeted, and multilevel
-toolset.](https://dl.acm.org/citation.cfm?id=2532357) In 1st International Workshop on Software Engineering for High Performance Computing in
-Computational Science and Engineering (SEHPCCSE’13), held in conjunction with SC’13, Denver,
-Colorado, Nov, 2013.
-
-- **[SELSE]** Greg Bronevetsky, Ignacio Laguna, Saurabh Bagchi, Bronis R. de Supinski, Dong H. Ahn, and Martin
-Schulz. [Statistical Fault Detection for Parallel Applications with AutomaDeD.](https://www.osti.gov/biblio/974392) In 6th IEEE Workshop on
-Silicon Errors in Logic - System Effects (SELSE’10), Stanford, CA, Mar 23-24, 2010.
-
+<ol start="{{len}}">
+{% for p in site.data.papers %}
+{% if p.type == "workshop" %}
+    <li>
+        <b>[{{p.pub}}]</b> {{p.authors}}. <a href="{{p.url}}"> {{p.title}} </a>. {{p.venue}}.
+    </li> <br />
+{% endif %}
+{% endfor %}
+</ol>
 

@@ -1,0 +1,55 @@
+
+
+<table>
+<tr> <td valign="top" style="width:10%;"> <img src="/images/debugging.jpg" alt="Debugging" style="display:block;" /> </td>
+<td width="2%"> </td>
+<td>
+<b>Debugging Large-Scale HPC Applications</b><br />
+Goal: Develop techniques and tools to isolate the origin of software defects in large-scale HPC codes, such as those using MPI. This can be quite challenging as errors caused by software bugs can propagate to many processes, can be scale and input dependent, and can be non-deterministic (they do not manifest in every program execution).  <br />
+<b>Publications:</b> [SC'09](https://dl.acm.org/citation.cfm?id=1654104), [DSN'10](https://ieeexplore.ieee.org/abstract/document/5544927), [SC'11](https://dl.acm.org/citation.cfm?id=2063451), [PACT'12](https://www.computer.org/csdl/proceedings/dsn/2012/1624/00/014-abs.html), [SC'15](https://dl.acm.org/citation.cfm?id=2807642) [SC'16](https://dl.acm.org/citation.cfm?id=3014930), [PPoPP'17](Noise Injection Techniques to Expose Subtle and Unintended Message Races)
+</td> </tr>
+</table> 
+
+<table>
+<tr> <td valign="top" style="width:10%;"> <img src="/images/mpi_ft_2.jpg" alt="MPI Fault Tolerance" style="display:block;" /> </td>
+<td width="2%"> </td>
+<td>
+<b>MPI Fault Tolerance</b><br />
+Goal: Develop fault-tolerance methods for MPI bulk-synchronous applications. These applications rely
+on checkpoint/restart (C/R) to recover from failures. The objective is to develop global-restart methods for MPI (where MPI state is reinitialized automatically) that allows C/R recover faster from node and process failures.
+<br />
+<b>Publications:</b> EuroMPI'14, IJHPCA'16, CCPE'18, EuroMPI'18' 
+</td> </tr>
+</table> 
+
+
+
+<table>
+<tr> <td valign="top" style="width:10%;"> <img src="/images/soft_errors.jpg" alt="Sof Errors" style="display:block;" /> </td>
+<td width="2%"> </td>
+<td>
+<b>Understanding the Impact of Soft Errors</b><br />
+Goal: To have a deeper and more methodical understanding of how soft errors affect applications, in particular how the application outcome can be affected and what code patterns can contribute to masking these errors internally.  <br />
+<b>Publications:</b> 
+</td> </tr>
+</table> 
+
+<table>
+<tr> <td valign="top" style="width:10%;"> <img src="/images/fault_injection_2.jpg" alt="Accurate Fault Injection" style="display:block;" /> </td>
+<td width="2%"> </td>
+<td>
+<b>Accurate Fault Injection</b><br />
+Goal: Build accurate compiler-based methods to inject <i>soft errors</i> into HPC applications. We use advanced compiler instrumentation using LLVM to inject soft errors in low-level code at the compiler backend. See <a href="https://github.com/ggeorgakoudis/REFINE">REFINE</a> software. <br />
+<b>Publications:</b> SC'16
+</td> </tr>
+</table> 
+
+<table>
+<tr> <td valign="top" style="width:10%;"> <img src="/images/multi_threaded_debugging.jpg" alt="Data Races" style="display:block;" /> </td>
+<td width="2%"> </td>
+<td>
+<b>Debugging Non-Deterministic Multi-Threaded Code</b><br />
+Goal: Build tools to detect non-deterministic bugs, such as data races, in HPC multi-threaded. Our solutions target on common HPC programing models, such a OpenMP.<br />
+<b>Publications:</b> 
+</td> </tr>
+</table> 

@@ -29,7 +29,8 @@ Phone: +1-925-422-7308, Email: [ilaguna@llnl.gov](mailto:ilaguna@llnl.gov)
 
 ## News
 
-09-18-2018: Our resilience SC'18 paper is highlighted in the news at [HPCWire](https://www.hpcwire.com/2018/09/18/whats-new-in-hpc-research-september-part-1/)\\
+09-18-2018: Our SC'18 resilience paper is highlighted in the news at [HPCWire](https://www.hpcwire.com/2018/09/18/whats-new-in-hpc-research-september-part-1/)\\
+09-17-2018: Invited talk at [School of Computing Colloquium](http://www.cs.utah.edu/calendar/colloquium-ignacio-laguna/), Univerisy of Utah\\
 08-14-2018: Paper accepted at [SC'18](https://sc18.supercomputing.org/)\\
 09-09-2017: We are named [R&D 100 Award Finalists!](https://www.rd100conference.com/awards/winners-finalists/year/2017/)\\
 06-15-2017: Paper accepted at [SC'17](https://sc17.supercomputing.org/)
@@ -124,7 +125,7 @@ Technical Program Committee: [Scala'16](https://www.csm.ornl.gov/srt/conferences
 2018 - Program Committees: [IPDPS'18](http://www.ipdps.org/ipdps2018/index.html),
 [Resilience'18](https://www.csm.ornl.gov/srt/conferences/Resilience/2018/),
 [SELSE'18](https://www.selse.org/),
-[Scala'18](https://www.csm.ornl.gov/srt/conferences/Scala/2018/)\\
+[Scala'18](https://www.csm.ornl.gov/srt/conferences/Scala/2018/),\\
 2017 - Program Committees: [CCGrid'17](https://www.arcos.inf.uc3m.es/ccgrid2017/),
 [SRDS'17](http://srds2017.comp.polyu.edu.hk/),
 [Resilience'17](https://www.csm.ornl.gov/srt/conferences/Resilience/2017/),
