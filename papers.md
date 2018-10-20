@@ -13,7 +13,7 @@ permalink: /papers/
 {% if p.type == "conf" %}
     {% assign len = len | plus: 1 %}
     <li>
-        <b>[{{p.pub}}]</b> {{p.authors}}. <a href="{{p.url}}"> {{p.title}} </a>. {{p.venue}}.
+        <b>[{{p.pub}}]</b> {{p.authors}}. <a href="{{p.url}}"> {{p.title}}</a>. {{p.venue}}.
     </li> <br />
 {% endif %}
 {% endfor %}
@@ -28,7 +28,7 @@ permalink: /papers/
 {% if p.type == "journal" %}
     {% assign len = len | plus: 1 %}
     <li>
-        <b>[{{p.pub}}]</b> {{p.authors}}. <a href="{{p.url}}"> {{p.title}} </a>. {{p.venue}}.
+        <b>[{{p.pub}}]</b> {{p.authors}}. <a href="{{p.url}}"> {{p.title}}</a>. {{p.venue}}.
     </li> <br />
 {% endif %}
 {% endfor %}
@@ -40,7 +40,7 @@ permalink: /papers/
 {% for p in site.data.papers %}
 {% if p.type == "workshop" %}
     <li>
-        <b>[{{p.pub}}]</b> {{p.authors}}. <a href="{{p.url}}"> {{p.title}} </a>. {{p.venue}}.
+        <b>[{{p.pub}}]</b> {{p.authors}}. <a href="{{p.url}}"> {{p.title}}</a>. {{p.venue}}.
     </li> <br />
 {% endif %}
 {% endfor %}
