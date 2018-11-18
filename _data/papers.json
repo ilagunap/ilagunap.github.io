@@ -4,7 +4,7 @@
     authors: "Luanzheng Guo, Dong Li, Ignacio Laguna, Martin Schulz",
     title: "FlipTracker: Understanding Natural Error Resilience in HPC Applications",
     venue: "ACM/IEEE Conference for High Performance Computing, Networking, Storage and Analysis (SC), Dallas, TX, 2018",
-    url: "",
+    url: "https://dl.acm.org/citation.cfm?id=3291667",
     pub: "SC'18"
 },  
 {
