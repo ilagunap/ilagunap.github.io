@@ -11,11 +11,11 @@ If so, please contact me (ilaguna@llnl.gov). You can apply directly to the Compu
 
 Broadly speaking, I am interested in the following areas of research as they apply to HPC / scientific computing:
 
-- Fault tolerance and reliability of HPC systems and applications
 - Debugging (automatically preferably) HPC and scientific programs
 - Reducing the accuracy of numerical computations to improve performance
 - General static and dynamic analysis for floating-point computations
-- LLVM static analysis and dynamic analysis (via instrumentation) to improve correctness and/or performance metrics
+- Compiler analysis using LLVM (e.g., via instrumentation) to improve performancce/reliability
+- Fault tolerance and reliability of HPC systems and applications
 
 ### Deadline: Jan/11/2018
 
