@@ -29,8 +29,11 @@ Phone: +1-925-422-7308, Email: [ilaguna@llnl.gov](mailto:ilaguna@llnl.gov)
 
 ## News
 
+<!--
 <font color="red">Interested in an internship?</font> [See here](/internships/)
-
+ -->
+12-11-2018: I have been name [Better Scientific Software (BSSw) Fellow 2019](https://bssw.io/blog_posts/introducing-the-2019-bssw-fellows)\\
+12-11-2018: Paper accepted at [IPDPS'19](http://www.ipdps.org/)\\
 09-18-2018: Our SC'18 resilience paper is highlighted in the news at [HPCWire](https://www.hpcwire.com/2018/09/18/whats-new-in-hpc-research-september-part-1/)\\
 09-17-2018: Invited talk at [School of Computing Colloquium](http://www.cs.utah.edu/calendar/colloquium-ignacio-laguna/), Univerisy of Utah\\
 08-14-2018: Paper accepted at [SC'18](https://sc18.supercomputing.org/)\\
