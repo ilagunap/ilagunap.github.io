@@ -32,6 +32,8 @@ Phone: +1-925-422-7308, Email: [ilaguna@llnl.gov](mailto:ilaguna@llnl.gov)
 <!--
 <font color="red">Interested in an internship?</font> [See here](/internships/)
  -->
+03-20-2019: Nominated for **best paper** (the [Hans Meuer Award](https://www.isc-hpc.com/awards-2019.html)) at [ISC'19](https://www.isc-hpc.com/)  \\
+03-18-2019: Paper accepted at [HPDC'19](http://www.hpdc.org/2019/)\\
 12-11-2018: I have been named [Better Scientific Software (BSSw) Fellow 2019](https://bssw.io/blog_posts/introducing-the-2019-bssw-fellows)\\
 12-11-2018: Paper accepted at [IPDPS'19](http://www.ipdps.org/)\\
 09-18-2018: Our SC'18 resilience paper is highlighted in the news at [HPCWire](https://www.hpcwire.com/2018/09/18/whats-new-in-hpc-research-september-part-1/)\\
