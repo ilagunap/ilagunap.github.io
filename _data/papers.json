@@ -4,7 +4,7 @@
     authors: "Ignacio Laguna, Paul C. Wood, Ranvijay Singh, Saurabh Bagchi",
     title: "GPUMixer: Performance-Driven Floating-Point Tuning for GPU Scientific Applications",
     venue: "ISC High Performance, Frankfurt, Germany, Jun 16-20, 2019",
-    url: "#",
+    url: "http://lagunaresearch.org/docs/isc-2019.pdf",
     pub: "ISC'19"
 },
 {
