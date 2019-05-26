@@ -7,6 +7,14 @@
     url: "http://lagunaresearch.org/docs/isc-2019.pdf",
     pub: "ISC'19"
 },
+{ 
+    type: "conf",
+    authors: "iPradeep Kotipalli, Ranvijay Singh, Paul Wood, Ignacio Laguna, and Saurabh Bagchi",
+    title: "AMPT-GA: Automatic Mixed Precision Floating Point Tuning for GPU Applications",
+    venue: "33rd ACM International Conference on Supercomputing (ICS), pp. 1-11, Jun 26-28, Phoenix, AZ",
+    url: "http://lagunaresearch.org/docs/ics19-final606.pdf",
+    pub: "ICS'19"
+},
 {
     type: "conf",
     authors: "Michael Bentley, Ian Briggs, Ganesh Gopalakrishnan,Dong H. Ahn, Ignacio Laguna, Gregory L. Lee, Holger E. Jones",
