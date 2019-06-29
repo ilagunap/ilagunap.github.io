@@ -32,6 +32,7 @@ Phone: +1-925-422-7308, Email: [ilaguna@llnl.gov](mailto:ilaguna@llnl.gov)
 <!--
 <font color="red">Interested in an internship?</font> [See here](/internships/)
  -->
+06-18-2019: We won the **Hans Meuer Award** for best research paper at [ISC'19](https://www.isc-hpc.com/)  \\
 03-20-2019: Nominated for **best paper** (the [Hans Meuer Award](https://www.isc-hpc.com/awards-2019.html)) at [ISC'19](https://www.isc-hpc.com/)  \\
 03-18-2019: Paper accepted at [HPDC'19](http://www.hpdc.org/2019/)\\
 12-11-2018: I have been named [Better Scientific Software (BSSw) Fellow 2019](https://bssw.io/blog_posts/introducing-the-2019-bssw-fellows)\\
@@ -128,7 +129,8 @@ Technical Program Committee: [Scala'16](https://www.csm.ornl.gov/srt/conferences
 [Correctness'17](https://correctness-workshop.github.io/2017/)
  -->
 
-2019 - Program Committees: [IPDPS'19](http://www.ipdps.org/)\\
+2019 - Program Committees: [IPDPS'19](http://www.ipdps.org/), [Cluster'19](https://clustercomp.org/2019/),
+[Resilience'19](https://www.csm.ornl.gov/srt/conferences/Resilience/2019/)\\
 2018 - Program Committees: [IPDPS'18](http://www.ipdps.org/ipdps2018/index.html),
 [Resilience'18](https://www.csm.ornl.gov/srt/conferences/Resilience/2018/),
 [SELSE'18](https://www.selse.org/),
@@ -147,8 +149,9 @@ Technical Program Committee: [Scala'16](https://www.csm.ornl.gov/srt/conferences
 2015 - Program Committees: [Resilience'15](https://www.csm.ornl.gov/srt/conferences/Resilience/2015/)\\
 2014 - Program Committees: [ISSRE'14](http://2014.issre.net/),
 [PROPER'14](http://www.vi-hps.org/)\\
+2019 - Workshop Co-Organizer: [Correctness'19](https://correctness-workshop.github.io/2019/)\\
 2018 - Workshop Co-Organizer: [Correctness'18](https://correctness-workshop.github.io/2018/)\\
-2018 - Workshop Co-Organizer: [Correctness'17](https://correctness-workshop.github.io/2017/)
+2017 - Workshop Co-Organizer: [Correctness'17](https://correctness-workshop.github.io/2017/)
 
 
 
