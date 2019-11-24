@@ -14,6 +14,7 @@ I am a Computer Scientist at the Center for Applied Scientific Computing (CASC) 
 
 # Honors & Awards
 
+- Hans Meuer Award for Best Paper at ISC’19
 - IEEE Senior Member
 - R&D 100 Award Finalist ([PRUNERS toolset](https://github.com/PRUNERS/PRUNERS-Toolset))
 - LLNL Spot Award (for building effective software bug isolation tools)

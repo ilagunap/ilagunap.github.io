@@ -32,6 +32,7 @@ Phone: +1-925-422-7308, Email: [ilaguna@llnl.gov](mailto:ilaguna@llnl.gov)
 <!--
 <font color="red">Interested in an internship?</font> [See here](/internships/)
  -->
+ 11-19-2019: We presented our [MPI survey paper](https://dl.acm.org/citation.cfm?doid=3295500.3356176) at **SC'19** \\
 06-18-2019: We won the **Hans Meuer Award** for best research paper at [ISC'19](https://www.isc-hpc.com/)  \\
 03-20-2019: Nominated for **best paper** (the [Hans Meuer Award](https://www.isc-hpc.com/awards-2019.html)) at [ISC'19](https://www.isc-hpc.com/)  \\
 03-18-2019: Paper accepted at [HPDC'19](http://www.hpdc.org/2019/)\\
