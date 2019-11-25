@@ -276,8 +276,16 @@ venue: "IEEE Transactions on Parallel and Distributed Systems (TPDS), vol. 26, n
 pub: "CSE",
 authors: "Martin Schulz, Jim Belak, Abhinav Bhatele, Peer-Timo Bremer, Greg Bronevetsky, Marc Casas, Todd Gamblin, Katherine E. Isaacs, Ignacio Laguna, Joshua Levine, Valerio Pascucci, David Richards, Barry Rountree",
 title: "Performance analysis techniques for the exascale co-design process",
-url: "",
+url: "http://ebooks.iospress.nl/publication/35861",
 venue: "Parallel Computing: Accelerating Computational Science and Engineering (CSE), vol. 25, pag. 19, 2014, IOS Press"
+},
+{
+  type: "workshop",
+  pub: "ROSS",
+  authors: "Stephen Herbein, David Domyancic, Paul Minner, Ignacio Laguna, Rafael Ferreira da Silva, and Dong H. Ahn",
+  title: "MCEM: Multi-Level Cooperative Exception Model for HPC Workflows",
+  url: "https://dl.acm.org/citation.cfm?doid=3322789.3328745",
+  venue: "In Proceedings of the 9th International Workshop on Runtime and Operating Systems for Supercomputers (ROSS '19). ACM, New York, NY, USA, 27-32"
 },
 {
   type: "workshop",
