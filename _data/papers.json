@@ -1,4 +1,20 @@
 [
+{
+    type: "conf",
+    authors: "Ignacio Laguna",
+    title: "Varity: Quantifying Floating-Point Variations in HPC Systems Through Randomized Testing",
+    venue: "34th IEEE International Parallel & Distributed Processing Symposium (IPDPS), New Orleans, May 18-22, 2020",
+    url: "#",
+    pub: "IPDPS'20"
+},
+{
+    type: "conf",
+    authors: "Daniel DeFreez, Antara Bhowmick, Ignacio Laguna, Cindy Rubio-González",
+    title: "Detecting and Reproducing Error-Code Propagation Bugs in MPI Implementations",
+    venue: "ACM Principles and Practice of Parallel Programming (PPoPP), San Diego, Feb 22-26, 2020",
+    url: "https://dl.acm.org/doi/abs/10.1145/3332466.3374515",
+    pub: "PPoPP'20"
+},
 { 
     type: "conf",
     authors: "Ignacio Laguna, Ryan Marshall, Kathryn Mohror, Martin Ruefenacht, Anthony Skjellum, Nawrin Sultana",
@@ -38,6 +54,14 @@
     venue: "33rd IEEE International Parallel & Distributed Processing Symposium (IPDPS), Rio de Janeiro, Brazil, May 20-24, 2019",
     url: "https://ieeexplore.ieee.org/document/8820954",
     pub: "IPDPS'19"
+},
+{
+    type: "conf",
+    authors: "Anthony Skjellum, Martin Rüfenacht, Nawrin Sultana, Derek Schafer, Ignacio Laguna, Kathryn Mohror",
+    title: "ExaMPI: A Modern Design and Implementation to Accelerate Message Passing Interface Innovation",
+    venue: "6th Latin American Conference on High Performance Computing (CARLA), Costa Rica, Sep 25–27, 2019",
+    url: "https://link.springer.com/chapter/10.1007/978-3-030-41005-6_11",
+    pub: "CARLA'19"
 },
 {
     type: "conf",

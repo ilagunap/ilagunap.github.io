@@ -32,7 +32,8 @@ Phone: +1-925-422-7308, Email: [ilaguna@llnl.gov](mailto:ilaguna@llnl.gov)
 <!--
 <font color="red">Interested in an internship?</font> [See here](/internships/)
  -->
- 11-19-2019: We presented our [MPI survey paper](https://dl.acm.org/citation.cfm?doid=3295500.3356176) at **SC'19** \\
+01-18-2020: Paper accepted at [IPDPS'20](http://www.ipdps.org/)\\
+11-19-2019: We presented our [MPI survey paper](https://dl.acm.org/citation.cfm?doid=3295500.3356176) at **SC'19** \\
 06-18-2019: We won the **Hans Meuer Award** for best research paper at [ISC'19](https://www.isc-hpc.com/)  \\
 03-20-2019: Nominated for **best paper** (the [Hans Meuer Award](https://www.isc-hpc.com/awards-2019.html)) at [ISC'19](https://www.isc-hpc.com/)  \\
 03-18-2019: Paper accepted at [HPDC'19](http://www.hpdc.org/2019/)\\
@@ -52,9 +53,9 @@ Phone: +1-925-422-7308, Email: [ilaguna@llnl.gov](mailto:ilaguna@llnl.gov)
 I am a Computer Scientist at the [Center for Applied Scientific Computing](https://computation.llnl.gov/casc) (CASC) at the [Lawrence Livermore National Laboratory](https://www.llnl.gov/) (LLNL), California. My main area of research is **high-performance computing (HPC)**. My main sub-area of research in HPC is **programing models and systems**.
 
 Specific research interests:
-- Fault tolerance, resilience, error data analysis
-- Software reliability, debugging, correctness
+- Software reliability, debugging, correctness, floating-point analysis
 - Compiler instrumentation (LLVM), static analysis
+- Fault tolerance, resilience, error data analysis
 - Scalable machine learning, statistical analysis
 
 ----
