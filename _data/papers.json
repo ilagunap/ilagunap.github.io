@@ -1,6 +1,14 @@
 [
 {
     type: "conf",
+    authors: "Giorgis Georgakoudis, Luanzheng Guo, Ignacio Laguna",
+    title: "Reinit++: Evaluating the Performance of Global-Restart Recovery Methods For MPI Fault Tolerance",
+    venue: "ISC High Performance, Frankfurt, Germany, Jun 22-24, 2020",
+    url: "#",
+    pub: "ISC'20"
+},
+{
+    type: "conf",
     authors: "Ignacio Laguna",
     title: "Varity: Quantifying Floating-Point Variations in HPC Systems Through Randomized Testing",
     venue: "34th IEEE International Parallel & Distributed Processing Symposium (IPDPS), New Orleans, May 18-22, 2020",
@@ -241,6 +249,14 @@ venue: "In IEEE Symposium on Reliable Distributed Systems (SRDS), Beijing, China
 },
 {
 type: "journal",
+pub: "CCPE",
+authors: "Nawrin Sultana, Martin Rüfenacht, Anthony Skjellum, Purushotham Bangalore, Ignacio Laguna, and Kathryn Mohror",
+title: "Understanding the Use of MPI in Exascale Proxy Applications",
+url: "#",
+venue: "Accepted in Concurrency and Computation: Practice and Experience, Wiley"
+},
+{
+type: "journal",
 pub: "ParCo",
 authors: "Nawrin Sultana, Martin Rüfenacht, Anthony Skjellum, Ignacio Laguna, and Kathryn Mohror",
 title: "Failure recovery for bulk synchronous applications with MPI stages",
@@ -253,7 +269,7 @@ pub: "IJHPCA",
 authors: "Sato, Kento, Ignacio Laguna, Gregory L Lee, Martin Schulz, Christopher M Chambreau, Simone Atzeni, Michael Bentley, et al.",
 title: "Pruners: Providing reproducibility for uncovering non-deterministic errors in runs on supercomputers",
 url: "https://doi.org/10.1177/1094342019834621",
-venue: "The International Journal of High Performance Computing Applications"
+venue: "The International Journal of High Performance Computing Applications, Vol 33, Issue 5, 2019"
 },
 {
 type: "journal",
@@ -261,7 +277,7 @@ pub: "CCPE",
 authors: "Sourav Chakraborty, Ignacio Laguna, Murali Emani, Kathryn Mohror, Dhabaleswar K. Panda, Martin Schulz, Hari Subramoni",
 title: "EReinit: Scalable and Efficient Fault Tolerance for Bulk-Synchronous MPI Applications",
 url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.4863",
-venue: "Concurrency and Computation: Practice and Experience, Wiley"
+venue: "Concurrency and Computation: Practice and Experience, Wiley, Volume 32, Issue 3, 2020"
 },
 {
  type: "journal",

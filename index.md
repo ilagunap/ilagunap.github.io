@@ -61,6 +61,10 @@ Specific research interests:
 ----
 
 ## Select Publications
+- **[PPoPP'19]** Daniel DeFreez, Antara Bhowmick, Ignacio Laguna, Cindy Rubio-González. *Detecting and Reproducing Error-Code Propagation Bugs in MPI Implementations.* ACM Principles and Practice of Parallel Programming (PPoPP), San Diego, Feb 22-26, 2020.
+
+- **[HPDC'19]** Michael Bentley, Ian Briggs, Ganesh Gopalakrishnan,Dong H. Ahn, Ignacio Laguna, Gregory L. Lee, Holger E. Jones. *Multi-level Analysis of Compiler-Induced Variability and Performance Tradeoffs.* International Symposium on High-Performance Parallel and Distributed Computing (HPDC), Phoenix, Arizona, USA - June 24-28, 2019.
+
 - **[SC'18]** Luanzheng Guo, Dong Li, Ignacio Laguna, Martin Schulz. *FlipTracker: Understanding Natural Error Resilience in HPC Applications.* ACM/IEEE Conference for High Performance Computing, Networking, Storage and Analysis (SC), 2018.
 
 - **[SC'17]** Giorgis Georgakoudis, Ignacio Laguna, Dimitrios S. Nikolopoulos, Martin Schulz. *REFINE: Realistic Fault Injection via Compiler-Based Instrumentation for Accuracy, Portability and Speed.* ACM/IEEE Conference for High Performance Computing, Networking, Storage and Analysis (SC), 2017.
