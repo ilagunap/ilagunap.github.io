@@ -321,6 +321,14 @@ venue: "Parallel Computing: Accelerating Computational Science and Engineering (
 },
 {
   type: "workshop",
+  pub: "IWOMP",
+  authors: "Giorgis Georgakoudis, Johannes Doerfert, Ignacio Laguna and Tom Scogland",
+  title: "FAROS: A Framework To Analyze OpenMP Compilation Through Benchmarking and Compiler Optimization Analysis",
+  url: "#",
+  venue: "In the International Workshop on OpenMP (IWOMP), Sep 21-24, 2020"
+},
+{
+  type: "workshop",
   pub: "ROSS",
   authors: "Stephen Herbein, David Domyancic, Paul Minner, Ignacio Laguna, Rafael Ferreira da Silva, and Dong H. Ahn",
   title: "MCEM: Multi-Level Cooperative Exception Model for HPC Workflows",
