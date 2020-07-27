@@ -4,7 +4,7 @@
     authors: "Giorgis Georgakoudis, Luanzheng Guo, Ignacio Laguna",
     title: "Reinit++: Evaluating the Performance of Global-Restart Recovery Methods For MPI Fault Tolerance",
     venue: "ISC High Performance, Frankfurt, Germany, Jun 22-24, 2020",
-    url: "#",
+    url: "https://link.springer.com/chapter/10.1007/978-3-030-50743-5_27",
     pub: "ISC'20"
 },
 {
@@ -12,7 +12,7 @@
     authors: "Ignacio Laguna",
     title: "Varity: Quantifying Floating-Point Variations in HPC Systems Through Randomized Testing",
     venue: "34th IEEE International Parallel & Distributed Processing Symposium (IPDPS), New Orleans, May 18-22, 2020",
-    url: "#",
+    url: "https://doi.org/10.1109/IPDPS47924.2020.00070",
     pub: "IPDPS'20"
 },
 {
@@ -254,6 +254,14 @@ authors: "Nawrin Sultana, Martin Rüfenacht, Anthony Skjellum, Purushotham Banga
 title: "Understanding the Use of MPI in Exascale Proxy Applications",
 url: "#",
 venue: "Accepted in Concurrency and Computation: Practice and Experience, Wiley"
+},
+{
+type: "journal",
+pub: "TPDS",
+authors: "Shinobu Miwa, Ignacio Laguna, Martin Schulz",
+title: "PredCom: A Predictive Approach to Collecting Approximated Communication Traces",
+url: "https://doi.ieeecomputersociety.org/10.1109/TPDS.2020.3011121",
+venue: "IEEE Transactions on Parallel & Distributed Systems"
 },
 {
 type: "journal",
