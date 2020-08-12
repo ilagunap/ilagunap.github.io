@@ -83,7 +83,7 @@
      type: "conf",
      authors: "Nawrin Sultana, Anthony Skjellum, Ignacio Laguna, Matthew Shane Farmer, Kathryn Mohror and Murali Emani",
      title: "MPI Stages: Checkpointing MPI State for Bulk Synchronous Applications",
-     url: "https://dl.acm.org/citation.cfm?id=3236385)",
+     url: "https://dl.acm.org/citation.cfm?id=3236385",
      venue: "In Proceedings of the 25th European MPI Users Group Meeting (EuroMPI), Barcelona, Spain, Sep. 23-26, 2018",
      pub: "EuroMPI'18"
 },

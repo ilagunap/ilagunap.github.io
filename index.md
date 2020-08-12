@@ -54,7 +54,7 @@ I am a Computer Scientist at the [Center for Applied Scientific Computing](https
 
 Specific research interests:
 - Software reliability, debugging, correctness, floating-point analysis
-- Compiler instrumentation (LLVM), static analysis
+- Compiler instrumentation (LLVM), static analysis, program analysis
 - Fault tolerance, resilience, error data analysis
 - Scalable machine learning, statistical analysis
 
