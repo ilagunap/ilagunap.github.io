@@ -32,6 +32,7 @@ Phone: +1-925-422-7308, Email: [ilaguna@llnl.gov](mailto:ilaguna@llnl.gov)
 <!--
 <font color="red">Interested in an internship?</font> [See here](/internships/)
  -->
+08-26-2020: Two papers accepted at [SC'20](https://sc20.supercomputing.org/)\\
 01-18-2020: Paper accepted at [IPDPS'20](http://www.ipdps.org/)\\
 11-19-2019: We presented our [MPI survey paper](https://dl.acm.org/citation.cfm?doid=3295500.3356176) at **SC'19** \\
 06-18-2019: We won the **Hans Meuer Award** for best research paper at [ISC'19](https://www.isc-hpc.com/)  \\
@@ -134,7 +135,8 @@ Technical Program Committee: [Scala'16](https://www.csm.ornl.gov/srt/conferences
 [Correctness'18](https://correctness-workshop.github.io/2018/),
 [Correctness'17](https://correctness-workshop.github.io/2017/)
  -->
-
+ 
+ 2020 - Program Committees: [SC'20](https://sc20.supercomputing.org/), [Cluster'20](https://clustercomp.org/2020/)\\
 2019 - Program Committees: [IPDPS'19](http://www.ipdps.org/), [Cluster'19](https://clustercomp.org/2019/),
 [Resilience'19](https://www.csm.ornl.gov/srt/conferences/Resilience/2019/)\\
 2018 - Program Committees: [IPDPS'18](http://www.ipdps.org/ipdps2018/index.html),
@@ -155,9 +157,12 @@ Technical Program Committee: [Scala'16](https://www.csm.ornl.gov/srt/conferences
 2015 - Program Committees: [Resilience'15](https://www.csm.ornl.gov/srt/conferences/Resilience/2015/)\\
 2014 - Program Committees: [ISSRE'14](http://2014.issre.net/),
 [PROPER'14](http://www.vi-hps.org/)\\
+2020 - Workshop Co-Organizer: [Workshop on Program Synthesis for Scientific Computing (PSW)](https://prog-synth-science.github.io/2020/)\\
+2020 - Workshop Co-Organizer: [Correctness'20](https://correctness-workshop.github.io/2020/)\\
 2019 - Workshop Co-Organizer: [Correctness'19](https://correctness-workshop.github.io/2019/)\\
 2018 - Workshop Co-Organizer: [Correctness'18](https://correctness-workshop.github.io/2018/)\\
 2017 - Workshop Co-Organizer: [Correctness'17](https://correctness-workshop.github.io/2017/)
+
 
 
 

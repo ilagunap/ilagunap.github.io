@@ -1,6 +1,38 @@
 [
 {
     type: "conf",
+    authors: "Bradley Swain, Yanze Li, Peiming Liu, Ignacio Laguna, Giorgis Georgakoudis, Jeff Huang",
+    title: "OMPRacer: Fast, Precise, and Scalable Static Race Detection for OpenMP Programs",
+    venue: "ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Virtual, Nov 16-19, 2020",
+    url: "#",
+    pub: "SC'20"
+},
+{
+    type: "conf",
+    authors: "Hui Guo, Ignacio Laguna, Cindy Rubio-González",
+    title: "pLiner: Isolating Lines of Floating-Point Code for Compiler Induced Variability",
+    venue: "ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Virtual, Nov 16-19, 2020",
+    url: "#",
+    pub: "SC'20"
+},
+{
+    type: "conf",
+    authors: "Konstantinos Parasyris, Ignacio Laguna, Harshitha Menon, Markus Schordan, Daniel Osei-Kuffuor, Giorgis Georgakoudis, Mike Lam, Tristan Vanderbruggen",
+    title: "HPC-MixPBench: An HPC Benchmark Suite for Mixed Precision Analysis",
+    venue: "2020 IEEE International Symposium on Workload Characterization",
+    url: "#",
+    pub: "IISWC'20"
+},
+{
+    type: "conf",
+    authors: "Luanzheng Guo, Giorgis Georgakoudis, Konstantinos Parasyris, Ignacio Laguna, Dong Li",
+    title: "MATCH: An MPI Fault Tolerance Benchmark Suite",
+    venue: "2020 IEEE International Symposium on Workload Characterization",
+    url: "#",
+    pub: "IISWC'20"
+},
+{
+    type: "conf",
     authors: "Giorgis Georgakoudis, Luanzheng Guo, Ignacio Laguna",
     title: "Reinit++: Evaluating the Performance of Global-Restart Recovery Methods For MPI Fault Tolerance",
     venue: "ISC High Performance, Frankfurt, Germany, Jun 22-24, 2020",
