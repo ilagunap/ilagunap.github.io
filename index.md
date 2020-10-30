@@ -32,6 +32,7 @@ Phone: +1-925-422-7308, Email: [ilaguna@llnl.gov](mailto:ilaguna@llnl.gov)
 <!--
 <font color="red">Interested in an internship?</font> [See here](/internships/)
  -->
+09-22-2020: We won the **best paper award** at [IWOMP'20](https://www.iwomp2020.org/)  \\
 08-26-2020: Two papers accepted at [SC'20](https://sc20.supercomputing.org/)\\
 01-18-2020: Paper accepted at [IPDPS'20](http://www.ipdps.org/)\\
 11-19-2019: We presented our [MPI survey paper](https://dl.acm.org/citation.cfm?doid=3295500.3356176) at **SC'19** \\
