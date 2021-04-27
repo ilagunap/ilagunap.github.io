@@ -1,6 +1,14 @@
 [
 {
     type: "conf",
+    authors: "Amir Taherin, Tirthak Patel, Devesh Tiwari, Giorgis Georgakoudis, Ignacio Laguna",
+    title: "Analyzing System Failures on Two Generations of Supercomputers: Lessons and Opportunities",
+    venue: "The IEEE/IFIP International Conference on Dependable Systems and Networks(DSN), virtual event, 2021",
+    url: "#",
+    pub: "DSN'21"
+},
+{
+    type: "conf",
     authors: "Konstantinos Parasyris, Giorgis Georgakoudis, Leonardo Bautista-Gomez, Ignacio Laguna",
     title: "Co-Designing Multi-Level Checkpoint Restart for MPI Applications",
     venue: "The 21th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, May 10-13, 2021, Melbourne, Victoria, Australia",
@@ -12,7 +20,7 @@
     authors: "Bradley Swain, Yanze Li, Peiming Liu, Ignacio Laguna, Giorgis Georgakoudis, Jeff Huang",
     title: "OMPRacer: Fast, Precise, and Scalable Static Race Detection for OpenMP Programs",
     venue: "ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Virtual, Nov 16-19, 2020",
-    url: "#",
+    url: "https://dl.acm.org/doi/10.5555/3433701.3433772",
     pub: "SC'20"
 },
 {
@@ -20,7 +28,7 @@
     authors: "Hui Guo, Ignacio Laguna, Cindy Rubio-González",
     title: "pLiner: Isolating Lines of Floating-Point Code for Compiler Induced Variability",
     venue: "ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Virtual, Nov 16-19, 2020",
-    url: "#",
+    url: "https://dl.acm.org/doi/10.5555/3433701.3433766",
     pub: "SC'20"
 },
 {
@@ -28,7 +36,7 @@
     authors: "Konstantinos Parasyris, Ignacio Laguna, Harshitha Menon, Markus Schordan, Daniel Osei-Kuffuor, Giorgis Georgakoudis, Mike Lam, Tristan Vanderbruggen",
     title: "HPC-MixPBench: An HPC Benchmark Suite for Mixed Precision Analysis",
     venue: "2020 IEEE International Symposium on Workload Characterization",
-    url: "#",
+    url: "https://ieeexplore.ieee.org/document/9251260",
     pub: "IISWC'20"
 },
 {
@@ -36,7 +44,7 @@
     authors: "Luanzheng Guo, Giorgis Georgakoudis, Konstantinos Parasyris, Ignacio Laguna, Dong Li",
     title: "MATCH: An MPI Fault Tolerance Benchmark Suite",
     venue: "2020 IEEE International Symposium on Workload Characterization",
-    url: "#",
+    url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9251254",
     pub: "IISWC'20"
 },
 {

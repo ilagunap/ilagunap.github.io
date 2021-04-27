@@ -32,6 +32,7 @@ Phone: +1-925-422-7308, Email: [ilaguna@llnl.gov](mailto:ilaguna@llnl.gov)
 <!--
 <font color="red">Interested in an internship?</font> [See here](/internships/)
  -->
+04-27-2021: Paper accepted at [DSN'21](http://dsn2021.ntu.edu.tw/)\\
 09-22-2020: We won the **best paper award** at [IWOMP'20](https://www.iwomp2020.org/)  \\
 08-26-2020: Two papers accepted at [SC'20](https://sc20.supercomputing.org/)\\
 01-18-2020: Paper accepted at [IPDPS'20](http://www.ipdps.org/)\\
@@ -137,7 +138,8 @@ Technical Program Committee: [Scala'16](https://www.csm.ornl.gov/srt/conferences
 [Correctness'17](https://correctness-workshop.github.io/2017/)
  -->
  
- 2020 - Program Committees: [SC'20](https://sc20.supercomputing.org/), [Cluster'20](https://clustercomp.org/2020/)\\
+2021 - Program Committees: [ISC'21](https://www.isc-hpc.com/), [ICDCS'21](https://icdcs2021.us/)\\
+2020 - Program Committees: [SC'20](https://sc20.supercomputing.org/), [Cluster'20](https://clustercomp.org/2020/), [ISC'20](https://www.isc-hpc.com/)\\
 2019 - Program Committees: [IPDPS'19](http://www.ipdps.org/), [Cluster'19](https://clustercomp.org/2019/),
 [Resilience'19](https://www.csm.ornl.gov/srt/conferences/Resilience/2019/)\\
 2018 - Program Committees: [IPDPS'18](http://www.ipdps.org/ipdps2018/index.html),
@@ -164,8 +166,10 @@ Technical Program Committee: [Scala'16](https://www.csm.ornl.gov/srt/conferences
 2018 - Workshop Co-Organizer: [Correctness'18](https://correctness-workshop.github.io/2018/)\\
 2017 - Workshop Co-Organizer: [Correctness'17](https://correctness-workshop.github.io/2017/)
 
-
-
+----
+## Tutorials
+- [Tutorial on Floating-Point Analysis Tools](http://fpanalysistools.org/pearc19/), PEARC'19
+- [Tutorial on Floating-Point Analysis and Reproducibility Tools for Scientific Software](http://fpanalysistools.org/sc19/), SC'19
 
 
 <!---
