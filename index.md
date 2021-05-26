@@ -161,6 +161,7 @@ Technical Program Committee: [Scala'16](https://www.csm.ornl.gov/srt/conferences
 2014 - Program Committees: [ISSRE'14](http://2014.issre.net/),
 [PROPER'14](http://www.vi-hps.org/)\\
 2020 - Workshop Co-Organizer: [Workshop on Program Synthesis for Scientific Computing (PSW)](https://prog-synth-science.github.io/2020/)\\
+2021 - Workshop Co-Organizer: [Correctness'21](https://correctness-workshop.github.io/2021/)\\
 2020 - Workshop Co-Organizer: [Correctness'20](https://correctness-workshop.github.io/2020/)\\
 2019 - Workshop Co-Organizer: [Correctness'19](https://correctness-workshop.github.io/2019/)\\
 2018 - Workshop Co-Organizer: [Correctness'18](https://correctness-workshop.github.io/2018/)\\
