@@ -32,7 +32,7 @@ Phone: +1-925-422-7308, Email: [ilaguna@llnl.gov](mailto:ilaguna@llnl.gov)
 <!--
 <font color="red">Interested in an internship?</font> [See here](/internships/)
  -->
-11-18-2021: Our SC21 paper won the first-ever *Best Reproducibility Advancement Award* ([news article](https://www.llnl.gov/news/llnl-team-wins-sc21-reproducibility-advancement-award)) \\
+11-18-2021: Our SC21 paper won the first-ever **Best Reproducibility Advancement Award** ([news article](https://www.llnl.gov/news/llnl-team-wins-sc21-reproducibility-advancement-award)) \\
 04-27-2021: Paper accepted at [DSN'21](http://dsn2021.ntu.edu.tw/)\\
 09-22-2020: We won the **best paper award** at [IWOMP'20](https://www.iwomp2020.org/)  \\
 08-26-2020: Two papers accepted at [SC'20](https://sc20.supercomputing.org/)\\

@@ -1,10 +1,18 @@
 [
 {
     type: "conf",
+    authors: "Konstantinos Parasyris, Giorgis Georgakoudis, Harshitha Menon, James Diffenderfer, Ignacio Laguna, Daniel Osei-Kuffuor, Markus Schordan",
+    title: "HPAC: evaluating approximate computing techniques on HPC OpenMP applications",
+    venue: "The International Conference for High Performance Computing, Networking, Storage and Analysis (SC21), St Louis, MO, USA, Nov 14-19, 2021",
+    url: "https://dl.acm.org/doi/10.1145/3458817.3476216",
+    pub: "SC'21"
+},
+{
+    type: "conf",
     authors: "Amir Taherin, Tirthak Patel, Devesh Tiwari, Giorgis Georgakoudis, Ignacio Laguna",
-    title: "Analyzing System Failures on Two Generations of Supercomputers: Lessons and Opportunities",
-    venue: "The IEEE/IFIP International Conference on Dependable Systems and Networks(DSN), virtual event, 2021",
-    url: "#",
+    title: "Examining Failures and Repairs on Supercomputers with Multi-GPU Compute Nodes",
+    venue: "The IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), virtual event, 2021",
+    url: "https://ieeexplore.ieee.org/document/9505081",
     pub: "DSN'21"
 },
 {
@@ -12,7 +20,7 @@
     authors: "Konstantinos Parasyris, Giorgis Georgakoudis, Leonardo Bautista-Gomez, Ignacio Laguna",
     title: "Co-Designing Multi-Level Checkpoint Restart for MPI Applications",
     venue: "The 21th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, May 10-13, 2021, Melbourne, Victoria, Australia",
-    url: "#",
+    url: "https://ieeexplore.ieee.org/document/9499495",
     pub: "CCGrid'21"
 },
 {
