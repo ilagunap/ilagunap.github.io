@@ -14,6 +14,7 @@ I am a Computer Scientist at the Center for Applied Scientific Computing (CASC) 
 
 # Honors & Awards
 
+- Best Reproducibility Advancement Award at SC21
 - Best Paper Award at IWOMP'20
 - Hans Meuer Award for Best Paper at ISC’19
 - Better Scientific Software (BSSw) Fellow
