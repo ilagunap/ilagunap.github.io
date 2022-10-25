@@ -1,6 +1,30 @@
 [
 {
     type: "conf",
+    authors: "Ignacio Laguna, Ganesh Gopalakrishnan",
+    title: "Finding Inputs that Trigger Floating-Point Exceptions in GPUs via Bayesian Optimization",
+    venue: "The International Conference for High Performance Computing, Networking, Storage and Analysis (SC22), Dallas, TX, USA, Nov 13-18, 2022",
+    url: "#",
+    pub: "SC'22"
+},
+{
+    type: "conf",
+    authors: "Konstantinos Parasyris, James Diffenderfer, Harshitha Menon, Ignacio Laguna, Jackson Vanover, Ryan Vogt, Daniel Osei-Kuffuor",
+    title: "Approximate Computing Through the Lens of Uncertainty Quantification",
+    venue: "The International Conference for High Performance Computing, Networking, Storage and Analysis (SC22), Dallas, TX, USA, Nov 13-18, 2022",
+    url: "#",
+    pub: "SC'22"
+},
+{
+    type: "conf",
+    authors: "gnacio Laguna, Tanmay Tirpankar, Xinyi Li, Ganesh Gopalakrishnan",
+    title: "FPChecker: Floating-Point Exception Detection Tool and Benchmark for Parallel and Distributed HPC",
+    venue: "2022 IEEE International Symposium on Workload Characterization, November 6 - November 8, 2022, Austin, Texas, USA",
+    url: "#",
+    pub: "IISWC'22"
+},
+{
+    type: "conf",
     authors: "Konstantinos Parasyris, Giorgis Georgakoudis, Harshitha Menon, James Diffenderfer, Ignacio Laguna, Daniel Osei-Kuffuor, Markus Schordan",
     title: "HPAC: evaluating approximate computing techniques on HPC OpenMP applications",
     venue: "The International Conference for High Performance Computing, Networking, Storage and Analysis (SC21), St Louis, MO, USA, Nov 14-19, 2021",
@@ -406,6 +430,30 @@ authors: "Martin Schulz, Jim Belak, Abhinav Bhatele, Peer-Timo Bremer, Greg Bron
 title: "Performance analysis techniques for the exascale co-design process",
 url: "http://ebooks.iospress.nl/publication/35861",
 venue: "Parallel Computing: Accelerating Computational Science and Engineering (CSE), vol. 25, pag. 19, 2014, IOS Press"
+},
+{
+  type: "workshop",
+  pub: "XLOOP",
+  authors: "Dorra Ben Khalifa, Xinyi Li, Ignacio Laguna, Matthieu Martel, Ganesh Gopalakrishnan",
+  title: "Toward Increasing Trust in Exascale Simulations",
+  url: "#",
+  venue: "The 4th Annual Workshop on Extreme-Scale Experiment-in-the-Loop Computing, at SC22, Dallas, TX, Nov 13-18, 2022"
+},
+{
+  type: "workshop",
+  pub: "P3HPC",
+  authors: "Konstantinos Parasyris, Giorgis Georgakoudis, Johannes Doerfert, Ignacio Laguna, Tom Scogland",
+  title: "Piper: Pipelining OpenMP Offloading Execution through Compiler Optimization for Performance",
+  url: "#",
+  venue: "2022 International Workshop on Performance Portability and Productivity (P3HPC), at SC22, Dallas, TX, Nov 13-18, 2022"
+},
+{
+  type: "workshop",
+  pub: "FTXS",
+  authors: "Bo Fang, Siva Hari, Timothy Tsai, Xinyi Li, Ganesh Gopalakrishnan, Ignacio Laguna, Kevin Barker, Ang Li",
+  title: "Toward Precision-Aware Fault Tolerance Approaches for Mixed-Precision Applications",
+  url: "#",
+  venue: "12th Workshop on Fault-Tolerance for HPC at Extreme Scale (FTXS 2022), at SC22, Dallas, TX, Nov 13-18, 2022"
 },
 {
   type: "workshop",
