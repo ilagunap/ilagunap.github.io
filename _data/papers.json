@@ -17,7 +17,7 @@
 },
 {
     type: "conf",
-    authors: "gnacio Laguna, Tanmay Tirpankar, Xinyi Li, Ganesh Gopalakrishnan",
+    authors: "Ignacio Laguna, Tanmay Tirpankar, Xinyi Li, Ganesh Gopalakrishnan",
     title: "FPChecker: Floating-Point Exception Detection Tool and Benchmark for Parallel and Distributed HPC",
     venue: "2022 IEEE International Symposium on Workload Characterization, November 6 - November 8, 2022, Austin, Texas, USA",
     url: "#",
@@ -121,7 +121,7 @@
 },
 { 
     type: "conf",
-    authors: "iPradeep Kotipalli, Ranvijay Singh, Paul Wood, Ignacio Laguna, and Saurabh Bagchi",
+    authors: "Pradeep Kotipalli, Ranvijay Singh, Paul Wood, Ignacio Laguna, and Saurabh Bagchi",
     title: "AMPT-GA: Automatic Mixed Precision Floating Point Tuning for GPU Applications",
     venue: "33rd ACM International Conference on Supercomputing (ICS), pp. 1-11, Jun 26-28, Phoenix, AZ",
     url: "http://lagunaresearch.org/docs/ics19-final606.pdf",
