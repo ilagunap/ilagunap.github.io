@@ -465,6 +465,14 @@ venue: "Parallel Computing: Accelerating Computational Science and Engineering (
 },
 {
   type: "workshop",
+  pub: "SOAP",
+  authors: "Ignacio Laguna, Xinyi Li, Ganesh Gopalakrishnan",
+  title: "BinFPE: accurate floating-point exception detection for GPU applications",
+  url: "https://dl.acm.org/doi/10.1145/3520313.3534655",
+  venue: "SOAP '22: 11th ACM SIGPLAN International Workshop on the State Of the Art in Program Analysis, San Diego, CA, USA, 14 June 2022"
+},
+{
+  type: "workshop",
   pub: "ROSS",
   authors: "Stephen Herbein, David Domyancic, Paul Minner, Ignacio Laguna, Rafael Ferreira da Silva, and Dong H. Ahn",
   title: "MCEM: Multi-Level Cooperative Exception Model for HPC Workflows",
