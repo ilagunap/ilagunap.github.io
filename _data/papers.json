@@ -338,6 +338,14 @@ venue: "In IEEE Symposium on Reliable Distributed Systems (SRDS), Beijing, China
 {
 type: "journal",
 pub: "CACM",
+authors: "William Godoy, Ritu Arora, Keith Beattie, David E. Bernholdt, Sarah E. Bratt, Daniel S. Katz, Ignacio Laguna et al.",
+title: "Giving RSEs a Larger Stage through the Better Scientific Software Fellowship",
+url: "https://ieeexplore.ieee.org/document/10064469",
+venue: "Computing in Science & Engineering (2023)."
+},
+{
+type: "journal",
+pub: "CACM",
 authors: "Dong H. Ahn, Allison H. Baker, Michael Bentley, Ian Briggs, Ganesh Gopalakrishnan, Dorit M. Hammerling, Ignacio Laguna, Gregory L. Lee, Daniel J. Milroy, Mariana Vertenstein",
 title: "Keeping Science on Keel When Software Moves",
 url: "https://cacm.acm.org/magazines/2021/2/250083-keeping-science-on-keel-when-software-moves/fulltext",
