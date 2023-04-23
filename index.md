@@ -29,6 +29,8 @@ Phone: +1-925-422-7308, Email: [ilaguna@llnl.gov](mailto:ilaguna@llnl.gov)
 
 ## News
 
+<img src="images/research_website_post.png" alt="Declutter Your Slides" style="display:block;" /> \\
+
 <!--
 <font color="red">Interested in an internship?</font> [See here](/internships/)
  -->
