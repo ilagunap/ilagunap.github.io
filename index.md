@@ -5,9 +5,9 @@
 layout: home
 ---
 
-My new book has been published. If you want to create clear and effective technical presentations, read this book!
+
 <table>
-<tr> <td valign="top" style="width:15%;"> <img src="images/website_2023.jpg" alt="Ignacio Laguna" style="display:block;" /> </td>
+<tr> <td valign="top" style="width:25%;"> <img src="images/website_2023.jpg" alt="Ignacio Laguna" style="display:block;" /> </td>
 <td width="2%"> </td>
 <td>
 <b>Contact:</b><br />
@@ -30,8 +30,9 @@ Phone: +1-925-422-7308, Email: [ilaguna@llnl.gov](mailto:ilaguna@llnl.gov)
 
 ## News
 
+My new book has been published. If you want to create clear and effective technical presentations, read [this book](https://www.amazon.com/dp/B0C2SFPLF5)!
 <table> <tr>
-<td valign="top" style="width:50%;"> <img src="images/research_website_post.png" alt="Declutter Your Slides" style="display:block;" /> </td>
+<td valign="top" style="width:25%;"> <img src="images/research_website_post.png" alt="Declutter Your Slides" style="display:block;" /> </td>
 <td width="2%"> </td>
 </tr> </table>
 
