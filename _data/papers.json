@@ -3,7 +3,7 @@
     type: "conf",
     authors: "Miao, Dolores, Ignacio Laguna, and Cindy Rubio-González",
     title: "Expression Isolation of Compiler-Induced Numerical Inconsistencies in Heterogeneous Code",
-    venue: "In International Conference on High Performance Computing (ISC), Germany, May 22, 2023 <b><font color=\"blue\"> (Best Paper Award)</font></b>.",
+    venue: "In International Conference on High Performance Computing (ISC), Germany, May 22, 2023 <b><font color=\"blue\"> (Best Paper Award)</font></b>",
     url: "https://link.springer.com/chapter/10.1007/978-3-031-32041-5_20",
     pub: "ISC'23"
 }, 

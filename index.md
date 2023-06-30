@@ -41,6 +41,7 @@ My new book has been published. If you want to create clear and effective techni
 <!--
 <font color="red">Interested in an internship?</font> [See here](/internships/)
  -->
+ 05-22-2023: Our ISC'23 paper won the **Hans Meuer Award** for best research paper at  ([news article](https://computing.llnl.gov/about/newsroom/best-paper-winner-finds-sources-calculation-inconsistencies)) \\
 11-18-2021: Our SC21 paper won the first-ever **Best Reproducibility Advancement Award** ([news article](https://www.llnl.gov/news/llnl-team-wins-sc21-reproducibility-advancement-award)) \\
 04-27-2021: Paper accepted at [DSN'21](http://dsn2021.ntu.edu.tw/)\\
 09-22-2020: We won the **best paper award** at [IWOMP'20](https://www.iwomp2020.org/)  \\
