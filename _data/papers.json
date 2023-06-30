@@ -1,10 +1,18 @@
 [
 {
     type: "conf",
+    authors: "Xinyi Li, Ignacio Laguna, Bo Fang, Katarzyna Swirydowicz, Ang Li, Ganesh Gopalakrishnan",
+    title: "Design and Evaluation of GPU-FPX: A Low-Overhead tool for Floating-Point Exception Detection in NVIDIA GPUs",
+    venue: "The 32nd International Symposium on High-Performance Parallel and Distributed Computing. Orlando, Florida, United States, June 20 - 23, 2023",
+    url: "#",
+    pub: "HPDC'23"
+},    
+{
+    type: "conf",
     authors: "Ignacio Laguna, Ganesh Gopalakrishnan",
     title: "Finding Inputs that Trigger Floating-Point Exceptions in GPUs via Bayesian Optimization",
     venue: "The International Conference for High Performance Computing, Networking, Storage and Analysis (SC22), Dallas, TX, USA, Nov 13-18, 2022",
-    url: "#",
+    url: "https://dl.acm.org/doi/abs/10.5555/3571885.3571928",
     pub: "SC'22"
 },
 {
@@ -12,7 +20,7 @@
     authors: "Konstantinos Parasyris, James Diffenderfer, Harshitha Menon, Ignacio Laguna, Jackson Vanover, Ryan Vogt, Daniel Osei-Kuffuor",
     title: "Approximate Computing Through the Lens of Uncertainty Quantification",
     venue: "The International Conference for High Performance Computing, Networking, Storage and Analysis (SC22), Dallas, TX, USA, Nov 13-18, 2022",
-    url: "#",
+    url: "https://dl.acm.org/doi/abs/10.5555/3571885.3571974",
     pub: "SC'22"
 },
 {
@@ -20,7 +28,7 @@
     authors: "Ignacio Laguna, Tanmay Tirpankar, Xinyi Li, Ganesh Gopalakrishnan",
     title: "FPChecker: Floating-Point Exception Detection Tool and Benchmark for Parallel and Distributed HPC",
     venue: "2022 IEEE International Symposium on Workload Characterization, November 6 - November 8, 2022, Austin, Texas, USA",
-    url: "#",
+    url: "https://www.computer.org/csdl/proceedings-article/iiswc/2022/879800a039/1J4Ci9Tg8HC",
     pub: "IISWC'22"
 },
 {
@@ -336,12 +344,20 @@ url: "https://ieeexplore.ieee.org/abstract/document/4365703",
 venue: "In IEEE Symposium on Reliable Distributed Systems (SRDS), Beijing, China, Oct 2007"
 },
 {
+    type: "journal",
+    pub: "ITP",
+    authors: "Harshitha Menon, James Diffenderfer, Giorgis Georgakoudis, Ignacio Laguna, Michael O. Lam, Daniel Osei-Kuffuor, Konstantinos Parasyris, and Jackson Vanover",
+    title: "Approximate High-Performance Computing: A Fast and Energy-Efficient Computing Paradigm in the Post-Moore Era",
+    url: "https://ieeexplore.ieee.org/document/10124054",
+    venue: "IT Professional (Volume: 25, Issue: 2, March-April 2023)"
+},
+{
 type: "journal",
-pub: "CACM",
+pub: "CSE",
 authors: "William Godoy, Ritu Arora, Keith Beattie, David E. Bernholdt, Sarah E. Bratt, Daniel S. Katz, Ignacio Laguna et al.",
 title: "Giving RSEs a Larger Stage through the Better Scientific Software Fellowship",
 url: "https://ieeexplore.ieee.org/document/10064469",
-venue: "Computing in Science & Engineering (2023)."
+venue: "Computing in Science & Engineering, 2023."
 },
 {
 type: "journal",
@@ -356,8 +372,8 @@ type: "journal",
 pub: "JPDC",
 authors: "Luanzheng Guo, Ignacio Laguna, Dong Li",
 title: "PARIS: Predicting Application Resilience Using Machine Learning",
-url: "#",
-venue: "Accepted in the Journal of Parallel and Distributed Computing"
+url: "https://www.sciencedirect.com/science/article/pii/S0743731521000368",
+venue: "Journal of Parallel and Distributed Computing, Volume 152, June 2021, Pages 111-124"
 },
 {
 type: "journal",
@@ -441,10 +457,18 @@ venue: "Parallel Computing: Accelerating Computational Science and Engineering (
 },
 {
   type: "workshop",
+  pub: "WOCC",
+  authors: "Luanzheng Guo, Jay Lofstead, Jie Ren, Ignacio Laguna, Gokcen Kestor, Line Pouchard, Dossay Oryspayev, Hyeran Jeon",
+  title: "Understanding System Resilience for Converged Computing of Cloud, Edge, and HPC",
+  url: "#",
+  venue: "International Workshop on Converged Computing (WOCC), @ISC, Germany, May 25, 2023."
+},
+{
+  type: "workshop",
   pub: "XLOOP",
   authors: "Dorra Ben Khalifa, Xinyi Li, Ignacio Laguna, Matthieu Martel, Ganesh Gopalakrishnan",
   title: "Toward Increasing Trust in Exascale Simulations",
-  url: "#",
+  url: "https://ieeexplore.ieee.org/document/10024631",
   venue: "The 4th Annual Workshop on Extreme-Scale Experiment-in-the-Loop Computing, at SC22, Dallas, TX, Nov 13-18, 2022"
 },
 {
@@ -452,7 +476,7 @@ venue: "Parallel Computing: Accelerating Computational Science and Engineering (
   pub: "P3HPC",
   authors: "Konstantinos Parasyris, Giorgis Georgakoudis, Johannes Doerfert, Ignacio Laguna, Tom Scogland",
   title: "Piper: Pipelining OpenMP Offloading Execution through Compiler Optimization for Performance",
-  url: "#",
+  url: "https://ieeexplore.ieee.org/document/10024593",
   venue: "2022 International Workshop on Performance Portability and Productivity (P3HPC), at SC22, Dallas, TX, Nov 13-18, 2022"
 },
 {
@@ -460,7 +484,7 @@ venue: "Parallel Computing: Accelerating Computational Science and Engineering (
   pub: "FTXS",
   authors: "Bo Fang, Siva Hari, Timothy Tsai, Xinyi Li, Ganesh Gopalakrishnan, Ignacio Laguna, Kevin Barker, Ang Li",
   title: "Toward Precision-Aware Fault Tolerance Approaches for Mixed-Precision Applications",
-  url: "#",
+  url: "https://ieeexplore.ieee.org/document/10024043",
   venue: "12th Workshop on Fault-Tolerance for HPC at Extreme Scale (FTXS 2022), at SC22, Dallas, TX, Nov 13-18, 2022"
 },
 {
