@@ -353,6 +353,14 @@ venue: "In IEEE Symposium on Reliable Distributed Systems (SRDS), Beijing, China
 },
 {
     type: "journal",
+    pub: "PARCO",
+    authors: "Ignacio Laguna, Anh Tran, Ganesh Gopalakrishnan",
+    title: "Finding Inputs that Trigger Floating-Point Exceptions in Heterogeneous Computing via Bayesian Optimization",
+    url: "https://www.sciencedirect.com/science/article/pii/S0167819123000480",
+    venue: "IParallel Computing, Volume 117, September 2023"
+},
+{
+    type: "journal",
     pub: "ITP",
     authors: "Harshitha Menon, James Diffenderfer, Giorgis Georgakoudis, Ignacio Laguna, Michael O. Lam, Daniel Osei-Kuffuor, Konstantinos Parasyris, and Jackson Vanover",
     title: "Approximate High-Performance Computing: A Fast and Energy-Efficient Computing Paradigm in the Post-Moore Era",
