@@ -1,6 +1,14 @@
 [
 {
     type: "conf",
+    authors: "Alnis Murtovi, Giorgis Georgakoudis, Konstantinos Parasyris, Chunhua Liao, Ignacio Laguna, and Bernhard Steffen",
+    title: "Enhancing Performance through Control-Flow Unmerging and Loop Unrolling on GPUs",
+    venue: "2024 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+    url: "#",
+    pub: "CGO'24"
+}, 
+{
+    type: "conf",
     authors: "Miao, Dolores, Ignacio Laguna, and Cindy Rubio-González",
     title: "Expression Isolation of Compiler-Induced Numerical Inconsistencies in Heterogeneous Code",
     venue: "In International Conference on High Performance Computing (ISC), Germany, May 22, 2023 <b><font color=\"blue\"> (Best Paper Award)</font></b>",
