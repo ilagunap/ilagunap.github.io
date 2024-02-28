@@ -365,7 +365,7 @@ venue: "In IEEE Symposium on Reliable Distributed Systems (SRDS), Beijing, China
     authors: "Ignacio Laguna, Anh Tran, Ganesh Gopalakrishnan",
     title: "Finding Inputs that Trigger Floating-Point Exceptions in Heterogeneous Computing via Bayesian Optimization",
     url: "https://www.sciencedirect.com/science/article/pii/S0167819123000480",
-    venue: "IParallel Computing, Volume 117, September 2023"
+    venue: "Parallel Computing, Volume 117, September 2023"
 },
 {
     type: "journal",
