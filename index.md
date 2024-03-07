@@ -30,6 +30,7 @@ Phone: +1-925-422-7308, Email: [ilaguna@llnl.gov](mailto:ilaguna@llnl.gov)
 
 ## News
 
+<!--
 My new book has been published. If you want to create clear and effective technical presentations, read [this book](https://www.amazon.com/dp/B0C2SFPLF5)!
 <table> <tr>
 <td valign="top" style="width:50%;"> <a href="https://www.amazon.com/dp/B0C2SFPLF5">
@@ -37,6 +38,7 @@ My new book has been published. If you want to create clear and effective techni
  </td>
 <td width="2%"> </td>
 </tr> </table>
+-->
 
 <!--
 <font color="red">Interested in an internship?</font> [See here](/internships/)
