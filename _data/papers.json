@@ -1,10 +1,18 @@
 [
 {
     type: "conf",
+    authors: "Xinyi Li, Ang Li, Bo Fang, Katarzyna Swirydowicz, Ignacio Laguna, Ganesh Gopalakrishnan",
+    title: "FTTN: Feature-Targeted Testing for Numerical Properties of  NVIDIA & AMD Matrix Accelerators",
+    venue: "The 24th IEEE/ACM international Symposium on Cluster, Cloud and Internet Computing",
+    url: "#",
+    pub: "CCGrid"
+}, 
+{
+    type: "conf",
     authors: "Alnis Murtovi, Giorgis Georgakoudis, Konstantinos Parasyris, Chunhua Liao, Ignacio Laguna, and Bernhard Steffen",
     title: "Enhancing Performance through Control-Flow Unmerging and Loop Unrolling on GPUs",
     venue: "2024 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
-    url: "#",
+    url: "https://ieeexplore.ieee.org/document/10444819",
     pub: "CGO'24"
 }, 
 {
@@ -20,7 +28,7 @@
     authors: "Xinyi Li, Ignacio Laguna, Bo Fang, Katarzyna Swirydowicz, Ang Li, Ganesh Gopalakrishnan",
     title: "Design and Evaluation of GPU-FPX: A Low-Overhead tool for Floating-Point Exception Detection in NVIDIA GPUs",
     venue: "The 32nd International Symposium on High-Performance Parallel and Distributed Computing. Orlando, Florida, United States, June 20 - 23, 2023",
-    url: "#",
+    url: "https://dl.acm.org/doi/abs/10.1145/3588195.3592991",
     pub: "HPDC'23"
 },    
 {
@@ -481,10 +489,18 @@ venue: "Parallel Computing: Accelerating Computational Science and Engineering (
 },
 {
   type: "workshop",
+  pub: "PMAM",
+  authors: "Dolores Miao, Ignacio Laguna, Giorgis Georgakoudis, Konstantinos Parasyris, Cindy Rubio-Gonzalez",
+  title: "MUPPET: Optimizing Performance in OpenMP via Mutation Testing",
+  url: "https://dl.acm.org/doi/10.1145/3649169.3649246",
+  venue: "PMAM '24: Proceedings of the 15th International Workshop on Programming Models and Applications for Multicores and Manycores, March 2024."
+},
+{
+  type: "workshop",
   pub: "WOCC",
   authors: "Luanzheng Guo, Jay Lofstead, Jie Ren, Ignacio Laguna, Gokcen Kestor, Line Pouchard, Dossay Oryspayev, Hyeran Jeon",
   title: "Understanding System Resilience for Converged Computing of Cloud, Edge, and HPC",
-  url: "#",
+  url: "https://link.springer.com/chapter/10.1007/978-3-031-40843-4_17",
   venue: "International Workshop on Converged Computing (WOCC), @ISC, Germany, May 25, 2023."
 },
 {
