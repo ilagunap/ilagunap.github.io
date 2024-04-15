@@ -72,7 +72,7 @@ Specific research interests:
 - Software reliability, debugging, correctness, floating-point analysis
 - Compiler instrumentation (LLVM), static analysis, program analysis
 - Fault tolerance, resilience, error data analysis
-- Scalable machine learning, statistical analysis
+- Machine learning and AI applied to programming
 
 ----
 
