@@ -11,7 +11,7 @@
     type: "conf",
     authors: "Dolores Miao, Ignacio Laguna, Cindy Rubio-González",
     title: "Input Range Generation for Compiler-Induced Numerical Inconsistencies",
-    venue: "CS 2024: International Conference on Supercomputing, June 4-7, 2024, Kyoto, Japan",
+    venue: "ICS 2024: International Conference on Supercomputing, June 4-7, 2024, Kyoto, Japan",
     url: "#",
     pub: "ICS'24"
 }, 
