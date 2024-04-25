@@ -1,11 +1,27 @@
 [
 {
     type: "conf",
+    authors: "Anh Tran, Ignacio Laguna, Ganesh Gopalakrishnan",
+    title: "FPBOXer: Efficient Input-Generation for Targeting Floating-Point Exceptions in GPU Programs",
+    venue: "33rd International Symposium on High-Performance Parallel and Distributed Computing (HPDC'24), 2024, Pisa, Italy",
+    url: "#",
+    pub: "HPDC'24"
+}, 
+{
+    type: "conf",
+    authors: "Dolores Miao, Ignacio Laguna, Cindy Rubio-González",
+    title: "Input Range Generation for Compiler-Induced Numerical Inconsistencies",
+    venue: "CS 2024: International Conference on Supercomputing, June 4-7, 2024, Kyoto, Japan",
+    url: "#",
+    pub: "ICS'24"
+}, 
+{
+    type: "conf",
     authors: "Xinyi Li, Ang Li, Bo Fang, Katarzyna Swirydowicz, Ignacio Laguna, Ganesh Gopalakrishnan",
     title: "FTTN: Feature-Targeted Testing for Numerical Properties of  NVIDIA & AMD Matrix Accelerators",
     venue: "The 24th IEEE/ACM international Symposium on Cluster, Cloud and Internet Computing",
     url: "#",
-    pub: "CCGrid"
+    pub: "CCGrid'24"
 }, 
 {
     type: "conf",

@@ -43,6 +43,8 @@ My new book has been published. If you want to create clear and effective techni
 <!--
 <font color="red">Interested in an internship?</font> [See here](/internships/)
  -->
+04-25-2024: Paper accepted at [HPDC'24](https://www.hpdc.org/2024/) on finding inputs that trigger exceptions.
+04-25-2024: Paper accepted at [ICS'24](https://ics2024.github.io/paper.html) on finding inputs that correlate to compiler-induced inconsistencies.
  05-22-2023: Our ISC'23 paper won the **Hans Meuer Award** for best research paper at  ([news article](https://computing.llnl.gov/about/newsroom/best-paper-winner-finds-sources-calculation-inconsistencies)) \\
 11-18-2021: Our SC21 paper won the first-ever **Best Reproducibility Advancement Award** ([news article](https://www.llnl.gov/news/llnl-team-wins-sc21-reproducibility-advancement-award)) \\
 04-27-2021: Paper accepted at [DSN'21](http://dsn2021.ntu.edu.tw/)\\
@@ -55,11 +57,13 @@ My new book has been published. If you want to create clear and effective techni
 03-18-2019: Paper accepted at [HPDC'19](http://www.hpdc.org/2019/)\\
 12-11-2018: I have been named [Better Scientific Software (BSSw) Fellow 2019](https://bssw.io/blog_posts/introducing-the-2019-bssw-fellows)\\
 12-11-2018: Paper accepted at [IPDPS'19](http://www.ipdps.org/)\\
+<!--
 09-18-2018: Our SC'18 resilience paper is highlighted in the news at [HPCWire](https://www.hpcwire.com/2018/09/18/whats-new-in-hpc-research-september-part-1/)\\
 09-17-2018: Invited talk at [School of Computing Colloquium](http://www.cs.utah.edu/calendar/colloquium-ignacio-laguna/), University of Utah\\
 08-14-2018: Paper accepted at [SC'18](https://sc18.supercomputing.org/)\\
 09-09-2017: We are named [R&D 100 Award Finalists!](https://www.rd100conference.com/awards/winners-finalists/year/2017/)\\
 06-15-2017: Paper accepted at [SC'17](https://sc17.supercomputing.org/)
+ -->
 
 
 ----
