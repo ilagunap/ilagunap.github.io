@@ -30,10 +30,18 @@
     venue: "2024 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
     url: "https://ieeexplore.ieee.org/document/10444819",
     pub: "CGO'24"
+},
+{
+    type: "conf",
+    authors: "Konstantinos Parasyris, Giorgis Georgakoudis, Esteban Rangel, Ignacio Laguna, Johannes Doerfert",
+    title: "Scalable Tuning of (OpenMP) GPU Applications via Kernel Record and Replay",
+    venue: "International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Denver, 2023 <b><font color=\"blue\"> (Nominated Best Paper Award)</font></b>",
+    url: "https://dl.acm.org/doi/abs/10.1145/3581784.3607098",
+    pub: "SC'23"
 }, 
 {
     type: "conf",
-    authors: "Miao, Dolores, Ignacio Laguna, and Cindy Rubio-González",
+    authors: "Dolores Miao, Ignacio Laguna, and Cindy Rubio-González",
     title: "Expression Isolation of Compiler-Induced Numerical Inconsistencies in Heterogeneous Code",
     venue: "In International Conference on High Performance Computing (ISC), Germany, May 22, 2023 <b><font color=\"blue\"> (Best Paper Award)</font></b>",
     url: "https://link.springer.com/chapter/10.1007/978-3-031-32041-5_20",
