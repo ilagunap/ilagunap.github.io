@@ -35,7 +35,7 @@
     type: "conf",
     authors: "Konstantinos Parasyris, Giorgis Georgakoudis, Esteban Rangel, Ignacio Laguna, Johannes Doerfert",
     title: "Scalable Tuning of (OpenMP) GPU Applications via Kernel Record and Replay",
-    venue: "International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Denver, 2023 <b><font color=\"blue\"> (Nominated Best Paper Award)</font></b>",
+    venue: "International Conference for High Performance Computing, Networking, Storage and Analysis (SC), Denver, 2023 <b><font color=\"blue\"> (Nominated for Best Paper Award)</font></b>",
     url: "https://dl.acm.org/doi/abs/10.1145/3581784.3607098",
     pub: "SC'23"
 }, 
