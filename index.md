@@ -73,7 +73,7 @@ My new book has been published. If you want to create clear and effective techni
 I am a Computer Scientist at the [Center for Applied Scientific Computing](https://computation.llnl.gov/casc) (CASC) at the [Lawrence Livermore National Laboratory](https://www.llnl.gov/) (LLNL), California. My main area of research is **high-performance computing (HPC)**. My main sub-area of research in HPC is **programing models and systems**.
 
 Specific research interests:
-- Software reliability, debugging, correctness, floating-point analysis
+- Software correctness, debugging, reproducibility, floating-point analysis
 - Compiler instrumentation (LLVM), static analysis, program analysis
 - Fault tolerance, resilience, error data analysis
 - Machine learning and AI applied to programming
