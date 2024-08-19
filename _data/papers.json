@@ -411,7 +411,7 @@ venue: "In IEEE Symposium on Reliable Distributed Systems (SRDS), Beijing, China
 type: "journal",
 pub: "PARCO",
 authors: "D. Miao, I. Laguna, G. Georgakoudis, K. Parasyris, and C. Rubio-González",
-title: "An Automated OpenMP Mutation Testing Framework for Performance Optimization"
+title: "An Automated OpenMP Mutation Testing Framework for Performance Optimization",
 url: "#",
 venue: "Journal of Parallel Computing (PARCO), 2024"
 },
