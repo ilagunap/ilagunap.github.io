@@ -1,6 +1,22 @@
 [
 {
     type: "conf",
+    authors: "Xiang Fu, Shiman Meng, Weiping Zhang, Luanzheng Guo, Kento Sato, Dong H. Ahn, Ignacio Laguna, Gregory L. Lee, Martin Schulz",
+    title: "Distributed Order Recording Techniques for Efficient Record-and-Replay of Multi-threaded Programs",
+    venue: "IEEE International Conference on Cluster Computing (Cluster'24), Sep 24-27, Kobe, Japan <b><font color=\"blue\"> (Nominated for Best Paper Award)</font></b>",
+    url: "#",
+    pub: "Cluster'24"
+}, 
+{
+    type: "conf",
+    authors: "Bo Fang, Xinyi Li, Harvey Dam, Cheng Tan, Siva Kumar Sastry Hari, Timothy Tsai, Ignacio Laguna, Dingwen Tao, Ganesh Gopalakrishnan, Prashant J. Nair, Kevin Barker, Ang Li",
+    title: "Understanding Mixed Precision GEMM with MPGemmFI: Insights into Fault Resilience",
+    venue: "IEEE International Conference on Cluster Computing (Cluster'24), Sep 24-27, Kobe, Japan",
+    url: "#",
+    pub: "Cluster'24"
+}, 
+{
+    type: "conf",
     authors: "Anh Tran, Ignacio Laguna, Ganesh Gopalakrishnan",
     title: "FPBOXer: Efficient Input-Generation for Targeting Floating-Point Exceptions in GPU Programs",
     venue: "33rd International Symposium on High-Performance Parallel and Distributed Computing (HPDC'24), 2024, Pisa, Italy",
@@ -12,7 +28,7 @@
     authors: "Dolores Miao, Ignacio Laguna, Cindy Rubio-González",
     title: "Input Range Generation for Compiler-Induced Numerical Inconsistencies",
     venue: "ICS 2024: International Conference on Supercomputing, June 4-7, 2024, Kyoto, Japan",
-    url: "#",
+    url: "https://dl.acm.org/doi/10.1145/3650200.3656618",
     pub: "ICS'24"
 }, 
 {
@@ -390,6 +406,22 @@ authors: "Gunjan Khanna, Ignacio Laguna, Fahad A. Arshad and Saurabh Bagchi",
 title: "Stateful Detection in High Throughput Distributed Systems",
 url: "https://ieeexplore.ieee.org/abstract/document/4365703",
 venue: "In IEEE Symposium on Reliable Distributed Systems (SRDS), Beijing, China, Oct 2007"
+},
+{
+type: "journal",
+pub: "PARCO",
+authors: "D. Miao, I. Laguna, G. Georgakoudis, K. Parasyris, and C. Rubio-González",
+title: "An Automated OpenMP Mutation Testing Framework for Performance Optimization"
+url: "#",
+venue: "Journal of Parallel Computing (PARCO), 2024"
+},
+{
+type: "journal",
+pub: "IJHPCA",
+authors: "David E Bernholdt, George Bosilca, Aurelien Bouteiller, Ron Brightwell, Jan Ciesko, Matthew GF Dosanjh, Giorgis Georgakoudis, Ignacio Laguna, Scott Levy, Thomas Naughton, Stephen L Olivier, Howard P Pritchard, Whit Schonbein, Joseph Schuchart, Amir Shehata",
+title: "Taking the MPI standard and the open MPI library to exascale",
+url: "https://journals.sagepub.com/doi/10.1177/10943420241265936",
+venue: "The International Journal of High Performance Computing Applications, 2024"
 },
 {
     type: "journal",
