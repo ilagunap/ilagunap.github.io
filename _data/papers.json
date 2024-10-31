@@ -545,6 +545,22 @@ venue: "Parallel Computing: Accelerating Computational Science and Engineering (
 },
 {
   type: "workshop",
+  pub: "HPCTEST",
+  authors: "Ignacio Laguna, Patrick Chapman, Konstantinos Parasyris, Giorgis Georgakoudis, Cindy Rubio-González",
+  title: "Testing the Unknown: A Framework for OpenMP Testing via Random Program Generation",
+  url: "#",
+  venue: "Second International Workshop on HPC Testing and Evaluation of Systems, Tools, and Software @ SC24, November 2024."
+},
+{
+  type: "workshop",
+  pub: "HPCTEST",
+  authors: "Anwar Hossain Zahid, Ignacio Laguna, Wei Le",
+  title: "Testing GPU Numerics: Finding Numerical Differences Between NVIDIA and AMD GPUs",
+  url: "#",
+  venue: "Second International Workshop on HPC Testing and Evaluation of Systems, Tools, and Software @ SC24, November 2024."
+},
+{
+  type: "workshop",
   pub: "PMAM",
   authors: "Dolores Miao, Ignacio Laguna, Giorgis Georgakoudis, Konstantinos Parasyris, Cindy Rubio-Gonzalez",
   title: "MUPPET: Optimizing Performance in OpenMP via Mutation Testing",
