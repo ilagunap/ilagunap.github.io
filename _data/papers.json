@@ -1,6 +1,14 @@
 [
 {
     type: "conf",
+    authors: "Anh Tran, Ignacio Laguna, Giorgis Georgakoudis, Konstantinos Parasyris, Ganesh Gopalakrishnan",
+    title: "GORC: A Graph Neural Network Based Static Data Race Checker for OpenMP",
+    venue: "ISC High Performance 2025, Jun 10-13, Hamburg, Germany",
+    url: "#",
+    pub: "ISC'25"
+}, 
+{
+    type: "conf",
     authors: "Xiang Fu, Shiman Meng, Weiping Zhang, Luanzheng Guo, Kento Sato, Dong H. Ahn, Ignacio Laguna, Gregory L. Lee, Martin Schulz",
     title: "Distributed Order Recording Techniques for Efficient Record-and-Replay of Multi-threaded Programs",
     venue: "IEEE International Conference on Cluster Computing (Cluster'24), Sep 24-27, Kobe, Japan <b><font color=\"blue\"> (Nominated for Best Paper Award)</font></b>",
@@ -542,6 +550,14 @@ authors: "Martin Schulz, Jim Belak, Abhinav Bhatele, Peer-Timo Bremer, Greg Bron
 title: "Performance analysis techniques for the exascale co-design process",
 url: "http://ebooks.iospress.nl/publication/35861",
 venue: "Parallel Computing: Accelerating Computational Science and Engineering (CSE), vol. 25, pag. 19, 2014, IOS Press"
+},
+{
+  type: "workshop",
+  pub: "HCW'25",
+  authors: "Jianbo Wu,  Jie Ren, Shuangyan Yang, Konstantinos Parasyris, Giorgis Georgakoudis, Ignacio Laguna, Dong Li",
+  title: "LM-Offload: Performance Model-Guided Generative Inference of Large Language Models with Parallelism Control",
+  url: "#",
+  venue: "Fourth IEEE Heterogeneity in Computing Workshop (HCW'25), @IPDPS'25, Milano, Italy, June 3-7, 2025 "
 },
 {
   type: "workshop",
