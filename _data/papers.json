@@ -1,6 +1,22 @@
 [
 {
     type: "conf",
+    authors: "Dolores Miao , Ignacio Laguna , Cindy Rubio-González",
+    title: "FloatGuard: Efficient Whole-Program Detection of Floating-Point Exceptions in AMD GPUs",
+    venue: "34th ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC), July 20-23, 2025, Notre Dame, IN, USA",
+    url: "#",
+    pub: "HPDC'25"
+}, 
+{
+    type: "conf",
+    authors: "Jacob Laurel, Ignacio Laguna, Jan Hueckelheim",
+    title: "Synthesizing Sound and Precise Abstract Transformers for Nonlinear Hyperbolic PDE Solvers",
+    venue: "OOPSLA (Object-Oriented Programming, Systems, Languages & Applications (OOPSLA), Sun 12 - Sat 18 October 2025, Singapore",
+    url: "#",
+    pub: "OOPSLA'25"
+}, 
+{
+    type: "conf",
     authors: "Anh Tran, Ignacio Laguna, Giorgis Georgakoudis, Konstantinos Parasyris, Ganesh Gopalakrishnan",
     title: "GORC: A Graph Neural Network Based Static Data Race Checker for OpenMP",
     venue: "ISC High Performance 2025, Jun 10-13, Hamburg, Germany",
