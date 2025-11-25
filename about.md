@@ -19,6 +19,7 @@ If you are a graduate student and would like to do an internship at LLNL in the 
 
 # Honors & Awards
 
+- ACM Distinguished Artifact Award at OOPSLA'25
 - Nominated for Best Paper Award at Cluster'24
 - Best Paper Award (Hans Meuer Award) at ISC'23
 - Nominated for Best Paper Award at SC'23
