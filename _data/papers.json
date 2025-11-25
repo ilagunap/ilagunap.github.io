@@ -4,7 +4,7 @@
     authors: "Dolores Miao , Ignacio Laguna , Cindy Rubio-González",
     title: "FloatGuard: Efficient Whole-Program Detection of Floating-Point Exceptions in AMD GPUs",
     venue: "34th ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC), July 20-23, 2025, Notre Dame, IN, USA",
-    url: "#",
+    url: "https://dl.acm.org/doi/abs/10.1145/3731545.3731586",
     pub: "HPDC'25"
 }, 
 {
@@ -12,7 +12,7 @@
     authors: "Jacob Laurel, Ignacio Laguna, Jan Hueckelheim",
     title: "Synthesizing Sound and Precise Abstract Transformers for Nonlinear Hyperbolic PDE Solvers",
     venue: "OOPSLA (Object-Oriented Programming, Systems, Languages & Applications (OOPSLA), Sun 12 - Sat 18 October 2025, Singapore",
-    url: "#",
+    url: "https://dl.acm.org/doi/abs/10.1145/3763088",
     pub: "OOPSLA'25"
 }, 
 {
@@ -20,7 +20,7 @@
     authors: "Anh Tran, Ignacio Laguna, Giorgis Georgakoudis, Konstantinos Parasyris, Ganesh Gopalakrishnan",
     title: "GORC: A Graph Neural Network Based Static Data Race Checker for OpenMP",
     venue: "ISC High Performance 2025, Jun 10-13, Hamburg, Germany",
-    url: "#",
+    url: "https://ieeexplore.ieee.org/abstract/document/11017732",
     pub: "ISC'25"
 }, 
 {
@@ -28,7 +28,7 @@
     authors: "Xiang Fu, Shiman Meng, Weiping Zhang, Luanzheng Guo, Kento Sato, Dong H. Ahn, Ignacio Laguna, Gregory L. Lee, Martin Schulz",
     title: "Distributed Order Recording Techniques for Efficient Record-and-Replay of Multi-threaded Programs",
     venue: "IEEE International Conference on Cluster Computing (Cluster'24), Sep 24-27, Kobe, Japan <b><font color=\"blue\"> (Nominated for Best Paper Award)</font></b>",
-    url: "#",
+    url: "https://ieeexplore.ieee.org/abstract/document/10740880",
     pub: "Cluster'24"
 }, 
 {
@@ -36,7 +36,7 @@
     authors: "Bo Fang, Xinyi Li, Harvey Dam, Cheng Tan, Siva Kumar Sastry Hari, Timothy Tsai, Ignacio Laguna, Dingwen Tao, Ganesh Gopalakrishnan, Prashant J. Nair, Kevin Barker, Ang Li",
     title: "Understanding Mixed Precision GEMM with MPGemmFI: Insights into Fault Resilience",
     venue: "IEEE International Conference on Cluster Computing (Cluster'24), Sep 24-27, Kobe, Japan",
-    url: "#",
+    url: "https://ieeexplore.ieee.org/abstract/document/10740821",
     pub: "Cluster'24"
 }, 
 {
@@ -44,7 +44,7 @@
     authors: "Anh Tran, Ignacio Laguna, Ganesh Gopalakrishnan",
     title: "FPBOXer: Efficient Input-Generation for Targeting Floating-Point Exceptions in GPU Programs",
     venue: "33rd International Symposium on High-Performance Parallel and Distributed Computing (HPDC'24), 2024, Pisa, Italy",
-    url: "#",
+    url: "https://dl.acm.org/doi/abs/10.1145/3625549.3658660",
     pub: "HPDC'24"
 }, 
 {
@@ -60,7 +60,7 @@
     authors: "Xinyi Li, Ang Li, Bo Fang, Katarzyna Swirydowicz, Ignacio Laguna, Ganesh Gopalakrishnan",
     title: "FTTN: Feature-Targeted Testing for Numerical Properties of  NVIDIA & AMD Matrix Accelerators",
     venue: "The 24th IEEE/ACM international Symposium on Cluster, Cloud and Internet Computing",
-    url: "#",
+    url: "https://ieeexplore.ieee.org/abstract/document/10701338",
     pub: "CCGrid'24"
 }, 
 {
@@ -569,10 +569,18 @@ venue: "Parallel Computing: Accelerating Computational Science and Engineering (
 },
 {
   type: "workshop",
+  pub: "LLVM-HPC2025",
+  authors: "Andrew Osterhout, Ignacio Laguna, and Ganesh Gopalakrishnan",
+  title: "Scabbard: LLVM Instrumentation-aided Race Checking in CPU/GPU Unified Memory for AMD GPUs",
+  url: "https://dl.acm.org/doi/full/10.1145/3731599.3767481",
+  venue: "Fourth IEEE Heterogeneity in Computing Workshop (HCW'25), @IPDPS'25, Milano, Italy, June 3-7, 2025 "
+},
+{
+  type: "workshop",
   pub: "HCW'25",
   authors: "Jianbo Wu,  Jie Ren, Shuangyan Yang, Konstantinos Parasyris, Giorgis Georgakoudis, Ignacio Laguna, Dong Li",
   title: "LM-Offload: Performance Model-Guided Generative Inference of Large Language Models with Parallelism Control",
-  url: "#",
+  url: "https://ieeexplore.ieee.org/abstract/document/11105961",
   venue: "Fourth IEEE Heterogeneity in Computing Workshop (HCW'25), @IPDPS'25, Milano, Italy, June 3-7, 2025 "
 },
 {
@@ -580,7 +588,7 @@ venue: "Parallel Computing: Accelerating Computational Science and Engineering (
   pub: "HPCTEST",
   authors: "Ignacio Laguna, Patrick Chapman, Konstantinos Parasyris, Giorgis Georgakoudis, Cindy Rubio-González",
   title: "Testing the Unknown: A Framework for OpenMP Testing via Random Program Generation",
-  url: "#",
+  url: "https://ieeexplore.ieee.org/abstract/document/10820716",
   venue: "Second International Workshop on HPC Testing and Evaluation of Systems, Tools, and Software @ SC24, November 2024."
 },
 {
@@ -588,7 +596,7 @@ venue: "Parallel Computing: Accelerating Computational Science and Engineering (
   pub: "HPCTEST",
   authors: "Anwar Hossain Zahid, Ignacio Laguna, Wei Le",
   title: "Testing GPU Numerics: Finding Numerical Differences Between NVIDIA and AMD GPUs",
-  url: "#",
+  url: "https://ieeexplore.ieee.org/abstract/document/10820789",
   venue: "Second International Workshop on HPC Testing and Evaluation of Systems, Tools, and Software @ SC24, November 2024."
 },
 {
