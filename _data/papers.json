@@ -11,7 +11,7 @@
     type: "conf",
     authors: "Jacob Laurel, Ignacio Laguna, Jan Hueckelheim",
     title: "Synthesizing Sound and Precise Abstract Transformers for Nonlinear Hyperbolic PDE Solvers",
-    venue: "OOPSLA (Object-Oriented Programming, Systems, Languages & Applications (OOPSLA), Sun 12 - Sat 18 October 2025, Singapore",
+    venue: "OOPSLA (Object-Oriented Programming, Systems, Languages & Applications (OOPSLA), Sun 12 - Sat 18 October 2025, Singapore <b><font color=\"blue\"> (ACM Distinguished Artifact Award)</font></b>",
     url: "https://dl.acm.org/doi/abs/10.1145/3763088",
     pub: "OOPSLA'25"
 }, 
