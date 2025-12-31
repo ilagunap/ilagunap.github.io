@@ -433,6 +433,14 @@ venue: "In IEEE Symposium on Reliable Distributed Systems (SRDS), Beijing, China
 },
 {
 type: "journal",
+pub: "JSS",
+authors: "I. Laguna",
+title: "Leveraging explainable AI to characterize floating-point exceptions in linear solvers",
+url: "https://doi.org/10.1016/j.jss.2025.112757",
+venue: "Journal of Systems and Software, Volume 234, April 2026"
+},
+{
+type: "journal",
 pub: "PARCO",
 authors: "D. Miao, I. Laguna, G. Georgakoudis, K. Parasyris, and C. Rubio-González",
 title: "An Automated OpenMP Mutation Testing Framework for Performance Optimization",
