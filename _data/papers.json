@@ -657,6 +657,14 @@ venue: "Parallel Computing: Accelerating Computational Science and Engineering (
 },
 {
   type: "workshop",
+  pub: "Correctness'21",
+  authors: "Ganesh  Gopalakrishnan, Ignacio Laguna, Ang Li, Pavel Panchekha, Cindy Rubio-González, and Zachary Tatlock",
+  title: "Guarding numerics amidst rising heterogeneity",
+  url: "https://doi.org/10.1109/Correctness54621.2021.00007",
+  venue: "2021 IEEE/ACM 5th International Workshop on Software Correctness for HPC Applications (Correctness), St. Louis, MO, USA, Nov 19, 2021"
+},
+{
+  type: "workshop",
   pub: "IWOMP",
   authors: "Giorgis Georgakoudis, Johannes Doerfert, Ignacio Laguna and Tom Scogland",
   title: "FAROS: A Framework To Analyze OpenMP Compilation Through Benchmarking and Compiler Optimization Analysis",
