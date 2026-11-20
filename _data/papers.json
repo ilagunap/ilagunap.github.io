@@ -25,6 +25,14 @@
 }, 
 {
     type: "conf",
+    authors: "Yuta Nakamura, Xulu Chu, Ignacio Laguna, Tanu Malik",
+    title: "Accurate Differential Analysis using Record and Selective Replay",
+    venue: "Proceedings of the 37th International Conference on Scalable Scientific Data Management (SSDBM '25), Columbus, USA, 2025",
+    url: "https://doi.org/10.1145/3733723.3733733",
+    pub: "SSDBM'25"
+},
+{
+    type: "conf",
     authors: "Xiang Fu, Shiman Meng, Weiping Zhang, Luanzheng Guo, Kento Sato, Dong H. Ahn, Ignacio Laguna, Gregory L. Lee, Martin Schulz",
     title: "Distributed Order Recording Techniques for Efficient Record-and-Replay of Multi-threaded Programs",
     venue: "IEEE International Conference on Cluster Computing (Cluster'24), Sep 24-27, Kobe, Japan <b><font color=\"blue\"> (Nominated for Best Paper Award)</font></b>",
@@ -63,6 +71,14 @@
     url: "https://ieeexplore.ieee.org/abstract/document/10701338",
     pub: "CCGrid'24"
 }, 
+{
+    type: "conf",
+    authors: "Xinyi Li, Ang Li, Bo Fang, Katarzyna Swirydowicz, Ignacio Laguna, Ganesh Gopalakrishnan",
+    title: "Discovery of Floating-Point Differences Between NVIDIA and AMD GPUs",
+    venue: "2024 IEEE 24th International Symposium on Cluster, Cloud and Internet Computing (CCGrid), pp. 663-666, 2024",
+    url: "https://doi.org/10.1109/CCGrid59990.2024.00083",
+    pub: "CCGrid'24"
+},
 {
     type: "conf",
     authors: "Alnis Murtovi, Giorgis Georgakoudis, Konstantinos Parasyris, Chunhua Liao, Ignacio Laguna, and Bernhard Steffen",
@@ -656,6 +672,14 @@ venue: "Parallel Computing: Accelerating Computational Science and Engineering (
   venue: "12th Workshop on Fault-Tolerance for HPC at Extreme Scale (FTXS 2022), at SC22, Dallas, TX, Nov 13-18, 2022"
 },
 {
+    type: "workshop",
+    pub: "TestVis'22",
+    authors: "John Jacobson, Mike Bentley, Cayden Lund, Ganesh Gopalakrishnan, Ignacio Laguna, Gregory L. Lee",
+    title: "FLoAT: Framework for Workflow Analysis, Visualization and Transformation",
+    url: "https://doi.org/10.1109/TestVis57757.2022.00009",
+    venue: "2022 First International Workshop on Visualization in Testing of Hardware, Software, and Manufacturing (TestVis), pp. 22-27, 2022"
+},
+{
   type: "workshop",
   pub: "Correctness'21",
   authors: "Ganesh  Gopalakrishnan, Ignacio Laguna, Ang Li, Pavel Panchekha, Cindy Rubio-González, and Zachary Tatlock",
@@ -678,6 +702,14 @@ venue: "Parallel Computing: Accelerating Computational Science and Engineering (
   title: "BinFPE: accurate floating-point exception detection for GPU applications",
   url: "https://dl.acm.org/doi/10.1145/3520313.3534655",
   venue: "SOAP '22: 11th ACM SIGPLAN International Workshop on the State Of the Art in Program Analysis, San Diego, CA, USA, 14 June 2022"
+},
+{
+    type: "workshop",
+    pub: "ExaMPI'20",
+    authors: "Derek Schafer, Ignacio Laguna, Anthony Skjellum, Nawrin Sultana, Kathryn Mohror",
+    title: "Extending the MPI Stages Model of Fault Tolerance",
+    url: "https://doi.org/10.1109/ExaMPI52011.2020.00011",
+    venue: "2020 Workshop on Exascale MPI (ExaMPI), pp. 52-61, 2020"
 },
 {
   type: "workshop",
