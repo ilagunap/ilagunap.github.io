@@ -577,6 +577,14 @@ venue: "Parallel Computing: Accelerating Computational Science and Engineering (
 },
 {
   type: "workshop",
+  pub: "Correctness'26",
+  authors: "Mohit Tekriwal, Ignacio Laguna, Yichen Tao, Jean-Baptiste Jeannin",
+  title: "Tighter Error Bounds Using Structural Floating-Point Properties and Tail Bounds",
+  url: "https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00046",
+  venue: "10th International Workshop on Software Correctness for HPC Applications (Correctness) @ SC26, Chicago, USA, Nov 16, 2026"
+},
+{
+  type: "workshop",
   pub: "LLVM-HPC2025",
   authors: "Andrew Osterhout, Ignacio Laguna, and Ganesh Gopalakrishnan",
   title: "Scabbard: LLVM Instrumentation-aided Race Checking in CPU/GPU Unified Memory for AMD GPUs",
